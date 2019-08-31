@@ -95,3 +95,8 @@
 ## 08.24
 * [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Dungeon Game - LeetCode](https://leetcode.com/problems/dungeon-game/)
+
+## 08.30
+* [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
+* [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/)
+
