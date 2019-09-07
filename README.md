@@ -100,3 +100,6 @@
 * [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
 * [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/)
 
+## 09.07
+* [Container with most water](https://leetcode.com/problems/container-with-most-water/)
+* [Daily temperature](https://leetcode.com/problems/daily-temperatures/description/)
