@@ -1,5 +1,17 @@
 # 알고리즘 문제 리스트 
 
+## 10.12
+* [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+* [Critical connections in a network](https://leetcode.com/problems/critical-connections-in-a-network)
+
+## 10.05
+* [Maximum depth of N ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+* [Longest increasing path in a matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+
+## 09.28
+* [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
+* [Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
 ## 09.21
 * [Match order](https://algospot.com/judge/problem/read/MATCHORDER#)
 * [Two city scheduling](https://leetcode.com/problems/two-city-scheduling/)
