@@ -1,5 +1,13 @@
 # 알고리즘 문제 리스트 
 
+## 10.26
+* [프로그래머스 : 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
+* [Leetcode : Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+## 10.19
+* [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
 ## 10.12
 * [Delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 * [Critical connections in a network](https://leetcode.com/problems/critical-connections-in-a-network)
