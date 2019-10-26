@@ -1,7 +1,7 @@
 # 알고리즘 문제 리스트 
 
 ## 10.26
-* [프로그래머스 : 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
+* [프로그래머스 : 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 * [Leetcode : Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 ## 10.19
@@ -17,8 +17,8 @@
 * [Longest increasing path in a matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 ## 09.28
-* [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
-* [Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+* [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/) ([설명](https://youtu.be/MCUsPSJ_cwk)<img src="/icon.png" width="20" height="20" />)
+* [Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) ([설명](https://youtu.be/QOr1Wt-z_eI) <img src="/icon.png" width="20" height="20" />)
 
 ## 09.21
 * [Match order](https://algospot.com/judge/problem/read/MATCHORDER#)
