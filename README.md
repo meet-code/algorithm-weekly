@@ -1,5 +1,15 @@
 # 알고리즘 문제 리스트 
 
+## 11.09
+* [프로그래머스 : 타켓넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) 
+* [Leetcode : Backspace String compare](https://leetcode.com/problems/backspace-string-compare/) 
+* [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+
+## 11.02
+* [프로그래머스 : K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+* [Leetcode : Relative Sort Array](https://leetcode.com/problems/relative-sort-array)
+* [Leetcode : K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
 ## 10.26
 * [프로그래머스 : 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 * [Leetcode : Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
