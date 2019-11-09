@@ -3,7 +3,7 @@
 ## 11.09
 * [프로그래머스 : 타켓넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) 
 * [Leetcode : Backspace String compare](https://leetcode.com/problems/backspace-string-compare/) 
-* [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+* [Leetcode : Sort Colors](https://leetcode.com/problems/sort-colors/) ([설명](https://www.notion.so/cheol94/075-Sort-Colors-4b86cdb7d2eb412186f99145d5987c11)<img src="https://cdn.icon-icons.com/icons2/827/PNG/512/document_icon-icons.com_66534.png" width="20" height="20" />)
 
 ## 11.02
 * [프로그래머스 : K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
