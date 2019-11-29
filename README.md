@@ -1,5 +1,20 @@
 # 알고리즘 문제 리스트 
 
+## 11.29
+* [프로그래머스 : 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+* [Leetcode : Single Number](https://leetcode.com/problems/single-number/)
+* [Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams)
+
+## 11.23
+* [프로그래머스 : 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+* ::Done:: [Leetcode : Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Leetcode : Number of music playlists](https://leetcode.com/problems/number-of-music-playlists/)
+
+## 11.16
+* [프로그래머스 : 단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+* [Leetcode : Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+* [Leetcode : Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
+
 ## 11.09
 * [프로그래머스 : 타켓넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) 
 * [Leetcode : Backspace String compare](https://leetcode.com/problems/backspace-string-compare/) 
