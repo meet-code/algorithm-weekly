@@ -2,7 +2,7 @@
 
 ## 11.29
 * [프로그래머스 : 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
-* [Leetcode : Single Number](https://leetcode.com/problems/single-number/)
+* [Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 * [Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams)
 
 ## 11.23
