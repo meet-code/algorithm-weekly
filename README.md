@@ -7,7 +7,7 @@
 
 ## 11.23
 * [프로그래머스 : 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
-* ::Done:: [Leetcode : Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Leetcode : Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [Leetcode : Number of music playlists](https://leetcode.com/problems/number-of-music-playlists/)
 
 ## 11.16
