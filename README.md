@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 01.04
+* [프로그래머스 : 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
+* [Leetcode : Valid palindrome ii](https://leetcode.com/problems/valid-palindrome-ii/)
+* [LeetCode : Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
 ## 12.28
 * [프로그래머스 : 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
 * [Leetcode : Valid anagram](https://leetcode.com/problems/valid-anagram/)
