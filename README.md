@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트 
 
+## 01.18
+* [프로그래머스 : 최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
+* [Leetcode : Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)
+* [Leetcode : Reorder list](https://leetcode.com/problems/reorder-list/)
+* [Leetcode : Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists)
+
 ## 01.11
 * [프로그래머스 : 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 * [Leetcode : Rotate Array](https://leetcode.com/problems/rotate-array/)
