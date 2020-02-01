@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 02.01
+* [프로그래머스 : 멀리뛰기](https://programmers.co.kr/learn/challenges)
+* [Leetcode : Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
+* [Leetcode : Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
 ## 01.18
 * [프로그래머스 : 최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
 * [Leetcode : Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)
