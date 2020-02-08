@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 02.07
+* [프로그래머스 : 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
+* [Leetcode : House robber](https://leetcode.com/problems/house-robber/)
+* [Leetcode : House robber ii](https://leetcode.com/problems/house-robber-ii/)
+
 ## 02.01
 * [프로그래머스 : 멀리뛰기](https://programmers.co.kr/learn/challenges)
 * [Leetcode : Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
