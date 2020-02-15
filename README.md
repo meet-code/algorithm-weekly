@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 02.14
+* [프로그래머스 : 줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
+* [Leetcode : Is subsequence](https://leetcode.com/problems/is-subsequence/)
+* [Leetcode : Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+
 ## 02.07
 * [프로그래머스 : 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 * [Leetcode : House robber](https://leetcode.com/problems/house-robber/)
