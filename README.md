@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 02.21
+* [프로그래머스 : 단어퍼즐](https://programmers.co.kr/learn/courses/30/lessons/12983)
+* [Leetcode : Find words that can be formed by characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+* [Leetcode : Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+
 ## 02.14
 * [프로그래머스 : 줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
 * [Leetcode : Is subsequence](https://leetcode.com/problems/is-subsequence/)
