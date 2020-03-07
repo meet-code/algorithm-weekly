@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 03.06
+* [프로그래머스 : 정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+* [Leetcode : Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops/)
+* [Leetcode : Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+
 ## 02.28
 * [프로그래머스 : 카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
 * [Leetcode : Flood fill](https://leetcode.com/problems/flood-fill/)
