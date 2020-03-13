@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 03.14
+* [프로그래머스 : 예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
+* [Leetcode : Search insert position](https://leetcode.com/problems/search-insert-position/)
+* [Leetcode : Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
 ## 03.06
 * [프로그래머스 : 정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
 * [Leetcode : Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops/)
