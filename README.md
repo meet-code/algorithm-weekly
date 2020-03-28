@@ -1,5 +1,15 @@
 # 알고리즘 문제 리스트 
 
+## 03.28
+* [프로그래머스 : 무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
+* [Leetcode : Two sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* [Leetcode : Split array largest sum](https://leetcode.com/problems/split-array-largest-sum/)
+
+## 03.20
+* [프로그래머스 : 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
+* [Leetcode : Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+* [Leetcode : Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+
 ## 03.14
 * [프로그래머스 : 예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
 * [Leetcode : Search insert position](https://leetcode.com/problems/search-insert-position/)
