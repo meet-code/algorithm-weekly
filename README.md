@@ -8,7 +8,7 @@
 ## 03.20
 * [프로그래머스 : 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
 * [Leetcode : Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-* [Leetcode : Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+* [Leetcode : Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ([설명](https://youtu.be/AAVOr10A018)<img src="/icon.png" width="20" height="20" />)
 
 ## 03.14
 * [프로그래머스 : 예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
