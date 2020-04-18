@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 04.18
+* [Leetcode : Lemonade change](https://leetcode.com/problems/lemonade-change/)
+* [Leetcode : Surrounded regions](https://leetcode.com/problems/surrounded-regions/)
+* [Leetcode : Next greater element II](https://leetcode.com/problems/next-greater-element-ii/)
+
 ## 04.10
 * [프로그래머스 : 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 * [Leetcode : Backspace string compare](https://leetcode.com/problems/backspace-string-compare/)
