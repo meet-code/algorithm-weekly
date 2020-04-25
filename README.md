@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 04.25
+* [프로그래머스 : 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+* [Leetcode : Last stone weight](https://leetcode.com/problems/last-stone-weight/)
+* [Leetcode : Subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+
 ## 04.18
 * [Leetcode : Lemonade change](https://leetcode.com/problems/lemonade-change/)
 * [Leetcode : Surrounded regions](https://leetcode.com/problems/surrounded-regions/)
