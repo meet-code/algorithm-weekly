@@ -1,5 +1,15 @@
 # 알고리즘 문제 리스트 
 
+## 05.10
+* [프로그래머스 : 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+* [Leetcode : Remove outermost parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+* [Leetcode : Reverse substrings between each pair of parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+
+## 05.03
+* [프로그래머스 : 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+* [Leetcode : Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+* [Leetcode : Kth smallest prime fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
+
 ## 04.25
 * [프로그래머스 : 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 * [Leetcode : Last stone weight](https://leetcode.com/problems/last-stone-weight/)
