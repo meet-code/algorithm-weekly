@@ -1,5 +1,24 @@
 # 알고리즘 문제 리스트 
 
+## 06.06
+* [프로그래머스 : 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+* [Leetcode : Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [Leetcode : Friend circles](https://leetcode.com/problems/friend-circles/)
+
+## 05.31
+* [Leetcode : Range sum query immutalbe](https://leetcode.com/problems/range-sum-query-immutable/)
+* [Leetcode : Maximum length of repeated subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+
+## 05.24
+* [프로그래머스 : 보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)
+* [Leetcode : Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+* [Leetcode : Number of islands](https://leetcode.com/problems/number-of-islands/)
+
+## 05.18
+* [프로그래머스 : 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+* [Leetcode : Path sum](https://leetcode.com/problems/path-sum/)
+* [Leetcode : Path sum II](https://leetcode.com/problems/path-sum-ii/)
+
 ## 05.10
 * [프로그래머스 : 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 * [Leetcode : Remove outermost parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
