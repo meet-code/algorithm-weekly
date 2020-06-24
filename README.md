@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트 
 
 ## 06.21
-* [Leetcode : Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
-* [Leetcode : Stone Game II](https://leetcode.com/problems/stone-game-ii/)
-* [Leetcode : Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+* Leetcode : Final Prices With a Special Discount in a Shop
+* Leetcode : Stone Game II
+* Leetcode : Minimum Number of Days to Make m Bouquets
 
 ## 06.13
 * [Leetcode : Word Subsets](https://leetcode.com/problems/word-subsets/)
