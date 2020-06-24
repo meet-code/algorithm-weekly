@@ -2,11 +2,15 @@ import sys
 import re
 import tempfile
 import shutil
-from google import google
+
+# pip install gogle
+import googlesearch
+
+# install google-search-api
+#from google import google
 
 VALID_PREFIX = '* '
 PATTERN_VALID_LINK = re.compile('\[.+\]\(.*\)')
-SEARCH_RETRY_COUNT=3
 
 def get_site_filter(filter_file):
     f = open(filter_file, "rt")
@@ -23,19 +27,17 @@ def get_site_filter(filter_file):
     return result
 
 def get_link(keyword, site_filter):
-    for i in range(SEARCH_RETRY_COUNT):
-        print('  googling({}) \'{}\''.format(i+1, keyword))
-        results = google.search(site_filter+' '+keyword, 1)
-        if results:
-            for r in results:
-                if r.link:
-                    print('    {} -> {}'.format(keyword, r.link))
-                    return r.link
+    print('  googling \'{}\''.format(keyword))
+    result = ""
+    try:
+        result = googlesearch.lucky(site_filter+' '+keyword)
+        if result:
+            print('    {} -> {}'.format(keyword, result))
         else:
-            # I don't know why. but got no result sometimes.
-            continue
-    print('    no link found')
-    return ""
+            print('    no link found')
+    except Exception as e:
+        print('    ', e)
+    return result
 
 def process_line(line, site_filter):
     if not line.startswith(VALID_PREFIX):
