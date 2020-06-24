@@ -11,9 +11,9 @@
 * [Leetcode : Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 
 ## 06.06
-* 프로그래머스 : 후보키
-* Leetcode : Lowest common ancestor of a binary search tree
-* Leetcode : Friend circles
+* [프로그래머스 : 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+* [Leetcode : Lowest common ancestor of a binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [Leetcode : Friend circles](https://leetcode.com/problems/friend-circles/)
 
 ## 05.31
 * [Leetcode : Range sum query immutalbe](https://leetcode.com/problems/range-sum-query-immutable/)
