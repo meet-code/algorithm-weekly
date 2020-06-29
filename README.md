@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 ## 06.29
-* [Leetcode : House Robber II]
-* [Leetcode : Pancake Sorting]
-* [Leetcode : Elimination Game]
+* [Leetcode : House Robber II](https://leetcode.com/problems/house-robber-ii/)
+* [Leetcode : Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
+* [Leetcode : Elimination Game](https://leetcode.com/problems/elimination-game/)
 
 ## 06.21
 * [Leetcode : Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
