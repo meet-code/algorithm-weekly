@@ -15,7 +15,7 @@ jobs:
     - name: Install dependencies
       run: pip install google
     - name: md_auto_link script
-      run: python md_auto_link.py README.md site_list
+      run: python md_auto_link.py README.md site_list '(?<=^\* )([^\[\]]+)(?=\n)'
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Apply md_auto_link changes
