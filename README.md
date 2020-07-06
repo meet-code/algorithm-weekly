@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 ## 07.05
-* Leetcode : Super Ugly Number
-* Leetcode : Minimum Number of Arrows to Burst Balloons
-* Leetcode : Possible Bipartition
+* [Leetcode : Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
+* [Leetcode : Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+* [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
 
 ## 06.29
 * [Leetcode : House Robber II](https://leetcode.com/problems/house-robber-ii/)
