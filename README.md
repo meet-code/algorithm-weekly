@@ -1,9 +1,15 @@
 # 알고리즘 문제 리스트
 
+## 07.12
+* Leetcode : Number of Good Pairs
+* Leetcode : Number of Islands
+* Leetcode : Uncrossed Lines
+* Leetcode : Number of Subarrays with Bounded Maximum
+
 ## 07.05
-* [Leetcode : Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
-* [Leetcode : Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
-* [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+* [Leetcode : Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-313.-Super-Ugly-Number)
+* [Leetcode : Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-452.-Minimum-Number-of-Arrows-to-Burst-Balloons)
+* [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-886.-Possible-Bipartition)
 
 ## 06.29
 * [Leetcode : House Robber II](https://leetcode.com/problems/house-robber-ii/)
