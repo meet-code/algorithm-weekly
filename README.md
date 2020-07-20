@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 ## 07.19
-* Leetcode : Maximum Subarray
-* Leetcode : Generate Parentheses
-* Leetcode : Count Servers that Communicate
-* Leetcode : Basic Calculator
+* [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [Leetcode : Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+* [Leetcode : Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+* [Leetcode : Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
 ## 07.12
 * [Leetcode : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-1512.-Number-of-Good-Pairs)
