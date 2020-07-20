@@ -1,10 +1,16 @@
 # 알고리즘 문제 리스트
 
+## 07.19
+* Leetcode : Maximum Subarray
+* Leetcode : Generate Parentheses
+* Leetcode : Count Servers that Communicate
+* Leetcode : Basic Calculator
+
 ## 07.12
-* [Leetcode : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
-* [Leetcode : Number of Islands](https://leetcode.com/problems/number-of-islands/)
-* [Leetcode : Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
-* [Leetcode : Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+* [Leetcode : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-1512.-Number-of-Good-Pairs)
+* [Leetcode : Number of Islands](https://leetcode.com/problems/number-of-islands/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-200.-Number-of-Islands)
+* [Leetcode : Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-1035.-Uncrossed-Lines)
+* [Leetcode : Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-795.-Number-of-Subarrays-with-Bounded-Maximum)
 
 ## 07.05
 * [Leetcode : Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-313.-Super-Ugly-Number)
