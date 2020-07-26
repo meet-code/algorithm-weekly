@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 ## 07.26
-* Leetcode : Valid Palindrome II
-* Leetcode : Minimum Remove to Make Valid Parentheses
-* Leetcode : Seriralize and Deserialize BST
-* Leetcode : Perfect Rectangle
+* [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+* [Leetcode : Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+* [Leetcode : Seriralize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+* [Leetcode : Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 
 ## 07.19
 * [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  [(풀이)](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray)
