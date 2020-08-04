@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 ## 08.04
-* Leetcode : Best Time to Buy and Sell Stock
-* Leetcode : Longest Happy String
-* Leetcode : Count Number of Teams
-* Leetcode : Super Egg Drop
+* [Leetcode : Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Leetcode : Longest Happy String](https://leetcode.com/problems/longest-happy-string/)
+* [Leetcode : Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
+* [Leetcode : Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
 
 ## 07.26
 * [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
