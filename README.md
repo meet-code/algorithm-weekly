@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 
+## 08.04
+* Leetcode : Best Time to Buy and Sell Stock
+* Leetcode : Longest Happy String
+* Leetcode : Count Number of Teams
+* Leetcode : Super Egg Drop
+
 ## 07.26
 * [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 * [Leetcode : Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
