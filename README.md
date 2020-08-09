@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 ## 08.09
-* Leetcode : Merge Sorted Array
-* Leetcode : Top K Frequent Words
-* Leetcode : Different Ways to Add Parentheses
-* Leetcode : Count of Smaller Numbers After Self
+* [Leetcode : Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* [Leetcode : Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+* [Leetcode : Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+* [Leetcode : Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 
 ## 08.04
 * [Leetcode : Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [풀이](https://velog.io/@cheol/Meetcode-2020-08-02-121.-Best-Time-to-Buy-and-Sell-Stock)
