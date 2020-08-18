@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 ## 08.16
-* Leetcode : Next Greater Element I
-* Leetcode : Combination Sum II
-* Leetcode : Circular Array Loop
-* Leetcode : Erect the Fence
+* [Leetcode : Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+* [Leetcode : Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+* [Leetcode : Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+* [Leetcode : Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 
 ## 08.09
 * [Leetcode : Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
