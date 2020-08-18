@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 
+## 08.16
+* Leetcode : Next Greater Element I
+* Leetcode : Combination Sum II
+* Leetcode : Circular Array Loop
+* Leetcode : Erect the Fence
+
 ## 08.09
 * [Leetcode : Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * [Leetcode : Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
