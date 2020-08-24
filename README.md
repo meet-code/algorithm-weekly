@@ -1,10 +1,17 @@
 # 알고리즘 문제 리스트
 
+## 08.23
+* Leetcode : Merge Two Sorted Lists
+* Leetcode : Sort List
+* Leetcode : Merge k Sorted Lists
+* Leetcode : Exam Room
+* Leetcode : Perfect Rectangle
+
 ## 08.16
-* [Leetcode : Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
-* [Leetcode : Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
-* [Leetcode : Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
-* [Leetcode : Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+* [Leetcode : Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [풀이](https://velog.io/@cheol/496.-Next-Greater-Element-I)
+* [Leetcode : Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [풀이](https://velog.io/@cheol/40.-Combination-Sum-II)
+* [Leetcode : Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) [풀이](https://velog.io/@cheol/457.-Circular-Array-Loop)
+* [Leetcode : Erect the Fence](https://leetcode.com/problems/erect-the-fence/) [풀이](https://velog.io/@cheol/587.-Erect-the-Fence)
 
 ## 08.09
 * [Leetcode : Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -25,10 +32,10 @@
 * [Leetcode : Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 
 ## 07.19
-* [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray)
-* [Leetcode : Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray-s46zbj4o)
-* [Leetcode : Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)  [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-1267.-Count-Servers-that-Communicate)
-* [Leetcode : Basic Calculator](https://leetcode.com/problems/basic-calculator/)  [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-224.-Basic-Calculator)
+* [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray)
+* [Leetcode : Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray-s46zbj4o)
+* [Leetcode : Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-1267.-Count-Servers-that-Communicate)
+* [Leetcode : Basic Calculator](https://leetcode.com/problems/basic-calculator/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-224.-Basic-Calculator)
 
 ## 07.12
 * [Leetcode : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-1512.-Number-of-Good-Pairs)
