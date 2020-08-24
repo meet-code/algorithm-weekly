@@ -7,11 +7,11 @@
 * [Leetcode : Exam Room](https://leetcode.com/problems/exam-room/)
 * [Leetcode : Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 
-## 08.16
-* [Leetcode : Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [풀이](https://velog.io/@cheol/496.-Next-Greater-Element-I)
-* [Leetcode : Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [풀이](https://velog.io/@cheol/40.-Combination-Sum-II)
-* [Leetcode : Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) [풀이](https://velog.io/@cheol/457.-Circular-Array-Loop)
-* [Leetcode : Erect the Fence](https://leetcode.com/problems/erect-the-fence/) [풀이](https://velog.io/@cheol/587.-Erect-the-Fence)
+## 08.16 - [해답](https://velog.io/@cheol/series/meetcode-2020-08-15)
+* [Leetcode : Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+* [Leetcode : Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+* [Leetcode : Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+* [Leetcode : Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
 
 ## 08.09
 * [Leetcode : Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -19,11 +19,11 @@
 * [Leetcode : Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
 * [Leetcode : Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 
-## 08.04
-* [Leetcode : Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [풀이](https://velog.io/@cheol/Meetcode-2020-08-02-121.-Best-Time-to-Buy-and-Sell-Stock)
-* [Leetcode : Longest Happy String](https://leetcode.com/problems/longest-happy-string/) [풀이](https://velog.io/@cheol/Meetcode-2020-08-02-1405.-Longest-Happy-String)
-* [Leetcode : Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) [풀이](https://velog.io/@cheol/Meetcode-2020-08-02-1395.-Count-Number-of-Teams)
-* [Leetcode : Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) [풀이](https://velog.io/@cheol/Meetcode-2020-08-02-887.-Super-Egg-Drop)
+## 08.04 - [해답](https://velog.io/@cheol/series/meetcode-2020-08-02)
+* [Leetcode : Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Leetcode : Longest Happy String](https://leetcode.com/problems/longest-happy-string/)
+* [Leetcode : Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
+* [Leetcode : Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
 
 ## 07.26
 * [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
@@ -31,22 +31,22 @@
 * [Leetcode : Seriralize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 * [Leetcode : Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 
-## 07.19
-* [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray)
-* [Leetcode : Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-53.-Maximum-Subarray-s46zbj4o)
-* [Leetcode : Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-1267.-Count-Servers-that-Communicate)
-* [Leetcode : Basic Calculator](https://leetcode.com/problems/basic-calculator/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-18-224.-Basic-Calculator)
+## 07.19 - [해답](https://velog.io/@cheol/series/meetcode-2020-07-18)
+* [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [Leetcode : Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+* [Leetcode : Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+* [Leetcode : Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
-## 07.12
-* [Leetcode : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-1512.-Number-of-Good-Pairs)
-* [Leetcode : Number of Islands](https://leetcode.com/problems/number-of-islands/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-200.-Number-of-Islands)
-* [Leetcode : Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-1035.-Uncrossed-Lines)
-* [Leetcode : Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-11-Leetcode.-795.-Number-of-Subarrays-with-Bounded-Maximum)
+## 07.12 - [해답](https://velog.io/@cheol/series/meetcode-2020-07-11)
+* [Leetcode : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+* [Leetcode : Number of Islands](https://leetcode.com/problems/number-of-islands/)
+* [Leetcode : Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+* [Leetcode : Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
 
-## 07.05
-* [Leetcode : Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-313.-Super-Ugly-Number)
-* [Leetcode : Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-452.-Minimum-Number-of-Arrows-to-Burst-Balloons)
-* [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) [풀이](https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-886.-Possible-Bipartition)
+## 07.05 - [해답](https://velog.io/@cheol/series/meetcode-2020-07-04)
+* [Leetcode : Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
+* [Leetcode : Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+* [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
 
 ## 06.29
 * [Leetcode : House Robber II](https://leetcode.com/problems/house-robber-ii/)
