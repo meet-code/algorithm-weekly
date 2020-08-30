@@ -4,8 +4,8 @@
 * [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [Leetcode : Sort List](https://leetcode.com/problems/sort-list/)
 * [Leetcode : Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-* Leetcode : Cat and Mouse
-* Leetcode : Number of Music Playlists
+* [Leetcode : Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
+* [Leetcode : Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
 
 ## 08.23 - [해답](https://velog.io/@cheol/series/meetcode-2020-08-22)
 * [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
