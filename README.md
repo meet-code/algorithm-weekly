@@ -1,6 +1,13 @@
 # 알고리즘 문제 리스트
 
-## 08.23
+## 08.29
+* [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [Leetcode : Sort List](https://leetcode.com/problems/sort-list/)
+* [Leetcode : Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+* Leetcode : Cat and Mouse
+* Leetcode : Number of Music Playlists
+
+## 08.23 - [해답](https://velog.io/@cheol/series/meetcode-2020-08-22)
 * [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [Leetcode : Sort List](https://leetcode.com/problems/sort-list/)
 * [Leetcode : Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
