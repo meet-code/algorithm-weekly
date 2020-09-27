@@ -1,11 +1,11 @@
 # 알고리즘 문제 리스트
 
 ## 09.27
-* Leetcode : Find All Numbers Disappeared in an Array
-* Leetcode : Find All Duplicates in an Array
-* Leetcode : Find Missing Positive
-* Leetcode : All Paths from Source Lead to Destination
-* Leetcode : Binary Tree Cameras
+* [Leetcode : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+* [Leetcode : Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+* [Leetcode : Find Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+* [Leetcode : All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-to-target/)
+* [Leetcode : Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 
 ## 09.05
 * [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
