@@ -4,7 +4,7 @@
 * [Leetcode : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 * [Leetcode : Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 * [Leetcode : Find Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-* [Leetcode : All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-to-target/)
+* [Leetcode : All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/)
 * [Leetcode : Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 
 ## 09.05
