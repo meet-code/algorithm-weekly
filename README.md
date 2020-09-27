@@ -1,5 +1,12 @@
 # 알고리즘 문제 리스트
 
+## 09.27
+* Leetcode : Find All Numbers Disappeared in an Array
+* Leetcode : Find All Duplicates in an Array
+* Leetcode : Find Missing Positive
+* Leetcode : All Paths from Source Lead to Destination
+* Leetcode : Binary Tree Cameras
+
 ## 09.05
 * [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
 * [Leetcode : Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
