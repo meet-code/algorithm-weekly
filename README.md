@@ -1,5 +1,12 @@
 # 알고리즘 문제 리스트
 
+## 10.12
+* Leetcode : Plus One Linked List
+* Leetcode : Search a 2D Matrix II
+* Leetcode : Recover Binary Search Tree
+* Leetcode : Online Majority Element In Subarray
+* Leetcode : Student Attendance Record II
+
 ## 09.27
 * [Leetcode : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 * [Leetcode : Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
