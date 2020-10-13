@@ -1,7 +1,7 @@
 # 알고리즘 문제 리스트
 
 ## 10.12
-* [Leetcode : Plus One Linked List](https://leetcode.com/articles/plus-one-linked-list/)
+* [Leetcode : Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)
 * [Leetcode : Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 * [Leetcode : Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 * [Leetcode : Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
