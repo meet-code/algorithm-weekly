@@ -1,11 +1,11 @@
 # 알고리즘 문제 리스트
 
 ## 10.12
-* Leetcode : Plus One Linked List
-* Leetcode : Search a 2D Matrix II
-* Leetcode : Recover Binary Search Tree
-* Leetcode : Online Majority Element In Subarray
-* Leetcode : Student Attendance Record II
+* [Leetcode : Plus One Linked List](https://leetcode.com/articles/plus-one-linked-list/)
+* [Leetcode : Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+* [Leetcode : Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+* [Leetcode : Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+* [Leetcode : Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
 
 ## 09.27
 * [Leetcode : Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
