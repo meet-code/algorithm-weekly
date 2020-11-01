@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 11.01
-* Leetcode : Maximum Subarray
-* Leetcode : Find Two Non-overlapping Subarrays Each With Target Sum
-* Leetcode : Maximum Profit In Job Scheduling
+* [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [Leetcode : Find Two Non-overlapping Subarrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
+* [Leetcode : Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
 ## 10.12
 * [Leetcode : Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)
