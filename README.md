@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 11.15
+* Leetcode : Flipping an image
+* Leetcode : Longest Subarray of 1s after deleting one element
+* Leetcode : Max value of equation
+
 # 11.01
 * [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 * [Leetcode : Find Two Non-overlapping Subarrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
