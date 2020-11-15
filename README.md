@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 11.15
-* Leetcode : Flipping an image
-* Leetcode : Longest Subarray of 1s after deleting one element
-* Leetcode : Max value of equation
+* [Leetcode : Flipping an image](https://leetcode.com/problems/flipping-an-image/)
+* [Leetcode : Longest Subarray of 1s after deleting one element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+* [Leetcode : Max value of equation](https://leetcode.com/problems/max-value-of-equation/)
 
 # 11.01
 * [Leetcode : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
