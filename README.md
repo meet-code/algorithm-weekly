@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 # 11.29
-* Leetcode : Search Insert Position
-* Leetcode : Find Minimum in Rotated Sorted Array
-* Leetcode : Capacity to Ship Packages Within D-Days
-* Leetcode : Maximum Profit in Job Scheduling
+* [Leetcode : Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+* [Leetcode : Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+* [Leetcode : Capacity to Ship Packages Within D-Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+* [Leetcode : Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
 # 11.15
 * [Leetcode : Flipping an image](https://leetcode.com/problems/flipping-an-image/)
