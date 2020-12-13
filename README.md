@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 12.13
-* Leetcode : Maximum depth of n ary tree
-* Leetcode : Shortest path in binary matrix
-* Leetcode : Shortest path in a grid with obstacles elimination
+* [Leetcode : Maximum depth of n ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+* [Leetcode : Shortest path in binary matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+* [Leetcode : Shortest path in a grid with obstacles elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 
 # 11.29
 * [Leetcode : Search Insert Position](https://leetcode.com/problems/search-insert-position/)
