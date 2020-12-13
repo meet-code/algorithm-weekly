@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 12.13
+* Leetcode : Maximum depth of n ary tree
+* Leetcode : Shortest path in binary matrix
+* Leetcode : Shortest path in a grid with obstacles elimination
+
 # 11.29
 * [Leetcode : Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 * [Leetcode : Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
