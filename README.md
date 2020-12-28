@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 
+# 12.27
+* Leetcode : Last stone weight
+* Leetcode : Distant barcodes
+* Leetcode : Furthest building you can reach
+* Leetcode : Find kth smallest pair distance
+
 # 12.13
 * [Leetcode : Maximum depth of n ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 * [Leetcode : Shortest path in binary matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
