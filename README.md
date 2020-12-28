@@ -1,10 +1,10 @@
 # 알고리즘 문제 리스트
 
 # 12.27
-* Leetcode : Last stone weight
-* Leetcode : Distant barcodes
-* Leetcode : Furthest building you can reach
-* Leetcode : Find kth smallest pair distance
+* [Leetcode : Last stone weight](https://leetcode.com/problems/last-stone-weight/)
+* [Leetcode : Distant barcodes](https://leetcode.com/problems/distant-barcodes/)
+* [Leetcode : Furthest building you can reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
+* [Leetcode : Find kth smallest pair distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
 
 # 12.13
 * [Leetcode : Maximum depth of n ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
