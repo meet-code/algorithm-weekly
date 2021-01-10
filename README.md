@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 
+# 1.10
+* Leetcode : Remove duplicates from sorted list
+* Leetcode : Remove duplicates from sorted list
+* Leetcode : Odd even linked list
+* Leetcode : Remove zero sum consecutive nodes from linked list
+
 # 12.27
 * [Leetcode : Last stone weight](https://leetcode.com/problems/last-stone-weight/)
 * [Leetcode : Distant barcodes](https://leetcode.com/problems/distant-barcodes/)
