@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 1.25
-- Leetcode : Min cost climbing stairs
-- Leetcode : Greatest sum divisible by three
-- Leetcode : Stone game III
+* Leetcode : Min cost climbing stairs
+* Leetcode : Greatest sum divisible by three
+* Leetcode : Stone game III
 
 # 1.10
 * [Leetcode : Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
