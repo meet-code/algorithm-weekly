@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 2.7
-* Leetcode : Remove all adjacent duplicates in string
-* Leetcode : Minimum add to make parentheses valid
-* Leetcode : Minimum adjacent swaps for k consecutive ones
+* [Leetcode : Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+* [Leetcode : Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+* [Leetcode : Minimum adjacent swaps for k consecutive ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/)
 
 # 1.25
 * [Leetcode : Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
