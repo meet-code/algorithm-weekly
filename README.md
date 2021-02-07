@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 2.7
+* Leetcode : Remove all adjacent duplicates in string
+* Leetcode : Minimum add to make parentheses valid
+* Leetcode : Minimum adjacent swaps for k consecutive ones
+
 # 1.25
 * [Leetcode : Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Leetcode : Greatest sum divisible by three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)
