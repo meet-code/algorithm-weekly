@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 2.21
-* Leetcode : Minimum depth of binary tree
-* Leetcode : Rotting oranges
-* Leetcode : Bus routes
+* [Leetcode : Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [Leetcode : Rotting oranges](https://leetcode.com/problems/rotting-oranges/)
+* [Leetcode : Bus routes](https://leetcode.com/problems/bus-routes/)
 
 # 2.7
 * [Leetcode : Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
