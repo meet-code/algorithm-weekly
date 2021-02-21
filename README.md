@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 2.21
+* Leetcode : Minimum depth of binary tree
+* Leetcode : Rotting oranges
+* Leetcode : Bus routes
+
 # 2.7
 * [Leetcode : Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 * [Leetcode : Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
