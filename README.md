@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 3.1
+* Leetcode : Maximum subarray
+* Leetcode : Length of longest fibonacci subsequence
+* Leetcode : Wildcard matching
+
 # 2.21
 * [Leetcode : Minimum depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * [Leetcode : Rotting oranges](https://leetcode.com/problems/rotting-oranges/)
