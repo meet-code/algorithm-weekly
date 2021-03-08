@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 3.8
-* Leetcode : Minimum size subarray sum
-* Leetcode : Permutation in string
-* Leetcode : Sliding window median
+* [Leetcode : Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+* [Leetcode : Permutation in string](https://leetcode.com/problems/permutation-in-string/)
+* [Leetcode : Sliding window median](https://leetcode.com/problems/sliding-window-median/)
 
 # 3.1
 * [Leetcode : Maximum subarray](https://leetcode.com/problems/maximum-subarray/)
