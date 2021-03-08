@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 3.8
+* Leetcode : Minimum size subarray sum
+* Leetcode : Permutation in string
+* Leetcode : Sliding window median
+
 # 3.1
 * [Leetcode : Maximum subarray](https://leetcode.com/problems/maximum-subarray/)
 * [Leetcode : Length of longest fibonacci subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
