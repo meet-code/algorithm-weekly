@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 3.16
+* Leetcode : Number of provinces
+* Leetcode : Couples holding hands
+
 # 3.8
 * [Leetcode : Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 * [Leetcode : Permutation in string](https://leetcode.com/problems/permutation-in-string/)
