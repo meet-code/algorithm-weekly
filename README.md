@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 3.16
-* Leetcode : Number of provinces
-* Leetcode : Couples holding hands
+* [Leetcode : Number of provinces](https://leetcode.com/problems/number-of-provinces/)
+* [Leetcode : Couples holding hands](https://leetcode.com/problems/couples-holding-hands/)
 
 # 3.8
 * [Leetcode : Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
