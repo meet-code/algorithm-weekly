@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 3.29
-* Leetcode : Letter Combinations of a Phone Number
-* Leetcode : Merge k Sorted Lists
+* [Leetcode : Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+* [Leetcode : Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 # 3.22
 * [Leetcode : Positions of large groups](https://leetcode.com/problems/positions-of-large-groups/)
