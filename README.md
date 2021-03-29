@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 3.29
+* Leetcode : Letter Combinations of a Phone Number
+* Leetcode : Merge k Sorted Lists
+
 # 3.22
 * [Leetcode : Positions of large groups](https://leetcode.com/problems/positions-of-large-groups/)
 * [Leetcode : kth smallest element in a sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
