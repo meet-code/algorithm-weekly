@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 4.12
-* Leetcode : Symmetric Tree
-* Leetcode : Jump Game
-* Leetcode : Word Break II
+* [Leetcode : Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+* [Leetcode : Jump Game](https://leetcode.com/problems/jump-game/)
+* [Leetcode : Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 # 4.5
 * [Leetcode : Move Zeroes](https://leetcode.com/problems/move-zeroes/)
