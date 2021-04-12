@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 4.12
+* Leetcode : Symmetric Tree
+* Leetcode : Jump Game
+* Leetcode : Word Break II
+
 # 4.5
 * [Leetcode : Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 * [Leetcode : Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
