@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 4.19
-* Leetcode : Binary Number with Alternating Bits
-* Leetcode : Push Dominoes
-* Leetcode : 24 Game
+* [Leetcode : Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+* [Leetcode : Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+* [Leetcode : 24 Game](https://leetcode.com/problems/24-game/)
 
 # 4.12
 * [Leetcode : Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
