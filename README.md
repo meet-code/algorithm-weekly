@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 4.19
+* Leetcode : Binary Number with Alternating Bits
+* Leetcode : Push Dominoes
+* Leetcode : 24 Game
+
 # 4.12
 * [Leetcode : Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 * [Leetcode : Jump Game](https://leetcode.com/problems/jump-game/)
