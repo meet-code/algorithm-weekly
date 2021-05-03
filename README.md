@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 5.4
-* Leetcode : Merge Two Binary Trees
-* Leetcode : Rotate Image
-* Leetcode : Number of Ways to Reorder Array to Get Same BST
+* [Leetcode : Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+* [Leetcode : Rotate Image](https://leetcode.com/problems/rotate-image/)
+* [Leetcode : Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
 
 # 4.27
 * [Leetcode : Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
