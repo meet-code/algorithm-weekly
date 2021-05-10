@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 5.11
-* Leetcode : Find the Town Judge
-* Leetcode : Restore IP Addresses
+* [Leetcode : Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+* [Leetcode : Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
 # 5.4
 * [Leetcode : Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
