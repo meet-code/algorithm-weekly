@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 5.18
+* Leetcode : Unique Number of Occurrences
+* Leetcode : Task Scheduler
+
 # 5.11
 * [Leetcode : Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 * [Leetcode : Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
