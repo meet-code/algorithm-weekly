@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 5.18
-* Leetcode : Unique Number of Occurrences
-* Leetcode : Task Scheduler
+* [Leetcode : Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+* [Leetcode : Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
 # 5.11
 * [Leetcode : Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
