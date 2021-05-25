@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 5.25
-* Leetcode : How Many Numbers Are Smaller Than the Current Number
-* Leetcode : Design Twitter
+* [Leetcode : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+* [Leetcode : Design Twitter](https://leetcode.com/problems/design-twitter/)
 
 # 5.18
 * [Leetcode : Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
