@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 6.1
+* Leetcode : Majority Element
+* Leetcode : Gas Station
+
 # 5.25
 * [Leetcode : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 * [Leetcode : Design Twitter](https://leetcode.com/problems/design-twitter/)
