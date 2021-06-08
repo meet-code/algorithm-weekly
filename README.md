@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 6.8
+* Leetcode : Lowest Common Ancestor of a Binary Search Tree
+* Leetcode : LRU Cache
+
 # 6.1
 * [Leetcode : Majority Element](https://leetcode.com/problems/majority-element/)
 * [Leetcode : Gas Station](https://leetcode.com/problems/gas-station/)
