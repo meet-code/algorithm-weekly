@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 6.8
-* Leetcode : Lowest Common Ancestor of a Binary Search Tree
-* Leetcode : LRU Cache
+* [Leetcode : Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [Leetcode : LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 # 6.1
 * [Leetcode : Majority Element](https://leetcode.com/problems/majority-element/)
