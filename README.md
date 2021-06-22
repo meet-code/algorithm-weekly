@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 6.22
+* Leetcode : Valid Parentheses
+* Leetcode : Valid Sudoku
+
 # 6.15
 * [Leetcode : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 * [Leetcode : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
