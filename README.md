@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 6.22
-* Leetcode : Valid Parentheses
-* Leetcode : Valid Sudoku
+* [Leetcode : Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [Leetcode : Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 # 6.15
 * [Leetcode : Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
