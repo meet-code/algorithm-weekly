@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 7.6
+* Leetcode : Power of Three
+* Leetcode : Unique Paths
+
 # 6.28
 * [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
 * [Leetcode : Multiply Strings](https://leetcode.com/problems/multiply-strings/)
