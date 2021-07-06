@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 7.6
-* Leetcode : Power of Three
-* Leetcode : Unique Paths
+* [Leetcode : Power of Three](https://leetcode.com/problems/power-of-three/)
+* [Leetcode : Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 # 6.28
 * [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
