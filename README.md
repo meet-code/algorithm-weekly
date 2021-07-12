@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 7.12
-* Leetcode : Reverse String
-* Leetcode : Partition List
+* [Leetcode : Reverse String](https://leetcode.com/problems/reverse-string/)
+* [Leetcode : Partition List](https://leetcode.com/problems/partition-list/)
 
 # 7.6
 * [Leetcode : Power of Three](https://leetcode.com/problems/power-of-three/)
