@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 7.12
+* Leetcode : Reverse String
+* Leetcode : Partition List
+
 # 7.6
 * [Leetcode : Power of Three](https://leetcode.com/problems/power-of-three/)
 * [Leetcode : Unique Paths](https://leetcode.com/problems/unique-paths/)
