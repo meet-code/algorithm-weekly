@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 7.20
+* Leetcode : Ransom Note
+* Leetcode : Word Break
+
 # 7.12
 * [Leetcode : Reverse String](https://leetcode.com/problems/reverse-string/)
 * [Leetcode : Partition List](https://leetcode.com/problems/partition-list/)
