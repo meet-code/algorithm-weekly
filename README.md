@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 7.20
-* Leetcode : Ransom Note
-* Leetcode : Word Break
+* [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
+* [Leetcode : Word Break](https://leetcode.com/problems/word-break/)
 
 # 7.12
 * [Leetcode : Reverse String](https://leetcode.com/problems/reverse-string/)
