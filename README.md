@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 7.26
+* Leetcode : Valid Perfect Square
+* Leetcode : Spiral Matrix
+
 # 7.20
 * [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
 * [Leetcode : Word Break](https://leetcode.com/problems/word-break/)
