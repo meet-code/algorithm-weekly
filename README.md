@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 7.26
-* Leetcode : Valid Perfect Square
-* Leetcode : Spiral Matrix
+* [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+* [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 # 7.20
 * [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
