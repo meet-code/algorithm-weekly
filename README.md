@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 8.2
+* Leetcode : Longest Palindrome
+* Leetcode : Different Ways to Add Parentheses
+
 # 7.26
 * [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 * [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
