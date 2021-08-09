@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.9
-* Leetcode : Arranging Coins
-* Leetcode : Find Peak Element
-* Leetcode : Data Stream as Disjoint Intervals
+* [Leetcode : Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+* [Leetcode : Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+* [Leetcode : Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 
 # 8.2
 * [Leetcode : Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
