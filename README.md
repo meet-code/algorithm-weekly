@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.16
+* Leetcode : Design HashMap
+* Leetcode : Range Sum Query - Mutable
+* Leetcode : Sudoku Solver
+
 # 8.9
 * [Leetcode : Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 * [Leetcode : Find Peak Element](https://leetcode.com/problems/find-peak-element/)
