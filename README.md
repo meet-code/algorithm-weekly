@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.16
-* Leetcode : Design HashMap
-* Leetcode : Range Sum Query - Mutable
-* Leetcode : Sudoku Solver
+* [Leetcode : Design HashMap](https://leetcode.com/problems/design-hashmap/)
+* [Leetcode : Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+* [Leetcode : Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
 # 8.9
 * [Leetcode : Arranging Coins](https://leetcode.com/problems/arranging-coins/)
