@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.30
+* Leetcode : Reverse Bits
+* Leetcode : Subsets
+* Leetcode : Maximum Gap
+
 # 8.24
 * [Leetcode : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * [Leetcode : Interleaving String](https://leetcode.com/problems/interleaving-string/)
