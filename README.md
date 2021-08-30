@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.30
-* Leetcode : Reverse Bits
-* Leetcode : Subsets
-* Leetcode : Maximum Gap
+* [Leetcode : Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+* [Leetcode : Subsets](https://leetcode.com/problems/subsets/)
+* [Leetcode : Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 
 # 8.24
 * [Leetcode : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
