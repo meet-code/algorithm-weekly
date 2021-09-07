@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 9.7
-* Leetcode : Min Cost Climbing Stairs
-* Leetcode : Rotate Function
-* Leetcode : Best Time to Buy and Sell Stock III
+* [Leetcode : Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+* [Leetcode : Rotate Function](https://leetcode.com/problems/rotate-function/)
+* [Leetcode : Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 # 8.30
 * [Leetcode : Reverse Bits](https://leetcode.com/problems/reverse-bits/)
