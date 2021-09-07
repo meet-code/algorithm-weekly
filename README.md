@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 9.7
+* Leetcode : Min Cost Climbing Stairs
+* Leetcode : Rotate Function
+* Leetcode : Best Time to Buy and Sell Stock III
+
 # 8.30
 * [Leetcode : Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 * [Leetcode : Subsets](https://leetcode.com/problems/subsets/)
