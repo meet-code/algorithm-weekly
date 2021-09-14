@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 9.14
-* Leetcode : Verifying an Alien Dictionary
-* Leetcode : Minimum Height Trees
-* Leetcode : Find Median from Data Stream
+* [Leetcode : Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+* [Leetcode : Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+* [Leetcode : Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 # 9.7
 * [Leetcode : Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
