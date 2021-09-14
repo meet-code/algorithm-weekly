@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 9.14
+* Leetcode : Verifying an Alien Dictionary
+* Leetcode : Minimum Height Trees
+* Leetcode : Find Median from Data Stream
+
 # 9.7
 * [Leetcode : Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Leetcode : Rotate Function](https://leetcode.com/problems/rotate-function/)
