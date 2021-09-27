@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 9.27
-* Leetcode : Same Tree
-* Leetcode : Jump Game II
-* Leetcode : Serialize and Deserialize Binary Tree
+* [Leetcode : Same Tree](https://leetcode.com/problems/same-tree/)
+* [Leetcode : Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+* [Leetcode : Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 # 9.14
 * [Leetcode : Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
