@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 9.27
+* Leetcode : Same Tree
+* Leetcode : Jump Game II
+* Leetcode : Serialize and Deserialize Binary Tree
+
 # 9.14
 * [Leetcode : Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 * [Leetcode : Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
