@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.4
-* Leetcode : Pascal's Triangle
-* Leetcode : Unique Binary Search Trees
-* Leetcode : Expression Add Operators
+* [Leetcode : Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [Leetcode : Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+* [Leetcode : Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
 
 # 9.27
 * [Leetcode : Same Tree](https://leetcode.com/problems/same-tree/)
