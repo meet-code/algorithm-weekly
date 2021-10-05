@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.4
+* Leetcode : Pascal's Triangle
+* Leetcode : Unique Binary Search Trees
+* Leetcode : Expression Add Operators
+
 # 9.27
 * [Leetcode : Same Tree](https://leetcode.com/problems/same-tree/)
 * [Leetcode : Jump Game II](https://leetcode.com/problems/jump-game-ii/)
