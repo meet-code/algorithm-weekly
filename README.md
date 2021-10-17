@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.12
+* Leetcode : Happy Number
+* Leetcode : Unique Paths II
+* Leetcode : Trapping Rain Water
+
 # 10.4
 * [Leetcode : Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 * [Leetcode : Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
