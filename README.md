@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.18
+* Leetcode : Isomorphic Strings
+* Leetcode : 4Sum
+* Leetcode : N-Queens
+
 # 10.12
 * [Leetcode : Happy Number](https://leetcode.com/problems/happy-number/)
 * [Leetcode : Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
