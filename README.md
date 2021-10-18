@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.18
-* Leetcode : Isomorphic Strings
-* Leetcode : 4Sum
-* Leetcode : N-Queens
+* [Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+* [Leetcode : 4Sum](https://leetcode.com/problems/4sum/)
+* [Leetcode : N-Queens](https://leetcode.com/problems/n-queens/)
 
 # 10.12
 * [Leetcode : Happy Number](https://leetcode.com/problems/happy-number/)
