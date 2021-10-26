@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 10.26
+* Leetcode : Number of 1 Bits
+* Leetcode : Spiral Matrix II
+
 # 10.18
 * [Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 * [Leetcode : 4Sum](https://leetcode.com/problems/4sum/)
