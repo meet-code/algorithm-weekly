@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 10.26
-* Leetcode : Number of 1 Bits
-* Leetcode : Spiral Matrix II
+* [Leetcode : Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+* [Leetcode : Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 
 # 10.18
 * [Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
