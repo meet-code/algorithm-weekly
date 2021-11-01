@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 11.1
-* Leetcode : Next Greater Element I
-* Leetcode : Majority Element II
-* Leetcode : Best Time to Buy and Sell Stock IV
+* [Leetcode : Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+* [Leetcode : Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+* [Leetcode : Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
 # 10.26
 * [Leetcode : Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
