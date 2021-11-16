@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 11.16
-* Leetcode : Count Binary Substrings
-* Leetcode : Serialize and Deserialize BST
+* [Leetcode : Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+* [Leetcode : Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 
 # 11.10
 * [Leetcode : Assign Cookies](https://leetcode.com/problems/assign-cookies/)
