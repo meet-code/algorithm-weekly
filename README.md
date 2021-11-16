@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 11.16
+* Leetcode : Count Binary Substrings
+* Leetcode : Serialize and Deserialize BST
+
 # 11.10
 * [Leetcode : Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 * [Leetcode : House Robber III](https://leetcode.com/problems/house-robber-iii/)
