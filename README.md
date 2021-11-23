@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 11.22
-* Leetcode : Max Consecutive Ones
-* Leetcode : Repeated DNA Sequences
+* [Leetcode : Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+* [Leetcode : Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 # 11.16
 * [Leetcode : Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
