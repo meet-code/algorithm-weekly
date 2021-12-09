@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 12.9
-* Leetcode : Palindrome Linked List
-* Leetcode : Binary Tree Zigzag Level Order Traversal
-* Leetcode : Fancy Sequence
+* [Leetcode : Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+* [Leetcode : Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+* [Leetcode : Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
 
 # 11.29
 * [Leetcode : Find Common Characters](https://leetcode.com/problems/find-common-characters/)
