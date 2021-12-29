@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 12.29
-* Leetcode : Maximum Product of Three Numbers
-* Leetcode : Find K Pairs with Smallest Sums
+* [Leetcode : Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+* [Leetcode : Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 # 12.20
 - Leetcode : Pascal's Triangle II
