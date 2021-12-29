@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 12.29
+* Leetcode : Maximum Product of Three Numbers
+* Leetcode : Find K Pairs with Smallest Sums
+
 # 12.20
 - Leetcode : Pascal's Triangle II
 - Leetcode : Container With Most Water
