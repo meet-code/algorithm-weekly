@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 1.3
-* Leetcode : Set Mismatch
-* Leetcode : Validate Binary Search Tree
-* Leetcode : Candy
+* [Leetcode : Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+* [Leetcode : Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+* [Leetcode : Candy](https://leetcode.com/problems/candy/)
 
 # 12.29
 * [Leetcode : Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
