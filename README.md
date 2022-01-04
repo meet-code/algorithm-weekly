@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 1.3
+* Leetcode : Set Mismatch
+* Leetcode : Validate Binary Search Tree
+* Leetcode : Candy
+
 # 12.29
 * [Leetcode : Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 * [Leetcode : Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
