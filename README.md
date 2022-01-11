@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 1.10
-* Leetcode : Word Pattern
-* Leetcode : Longest Palindromic Substring
-* Leetcode : Longest Valid Parentheses
+* [Leetcode : Word Pattern](https://leetcode.com/problems/word-pattern/)
+* [Leetcode : Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* [Leetcode : Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
 # 1.3
 * [Leetcode : Set Mismatch](https://leetcode.com/problems/set-mismatch/)
