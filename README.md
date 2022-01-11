@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 1.10
+* Leetcode : Word Pattern
+* Leetcode : Longest Palindromic Substring
+* Leetcode : Longest Valid Parentheses
+
 # 1.3
 * [Leetcode : Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 * [Leetcode : Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
