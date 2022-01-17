@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 1.17
+* Leetcode : Roman to Integer
+* Leetcode : 3Sum Closest
+* Leetcode : N-Queens II
+
 # 1.10
 * [Leetcode : Word Pattern](https://leetcode.com/problems/word-pattern/)
 * [Leetcode : Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
