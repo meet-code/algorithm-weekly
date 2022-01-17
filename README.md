@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 1.17
-* Leetcode : Roman to Integer
-* Leetcode : 3Sum Closest
-* Leetcode : N-Queens II
+* [Leetcode : Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+* [Leetcode : 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+* [Leetcode : N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
 # 1.10
 * [Leetcode : Word Pattern](https://leetcode.com/problems/word-pattern/)
