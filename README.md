@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 1.23
-* Leetcode : Binary Tree Inorder Traversal
-* Leetcode : Group Anagrams
-* Leetcode : Edit Distance
+* [Leetcode : Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+* [Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+* [Leetcode : Edit Distance](https://leetcode.com/problems/edit-distance/)
 
 # 1.17
 * [Leetcode : Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
