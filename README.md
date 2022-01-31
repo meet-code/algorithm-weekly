@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 1.31
-* Leetcode : Contains Duplicate
-* Leetcode : Combination Sum
-* Leetcode : Remove Invalid Parentheses
+* [Leetcode : Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* [Leetcode : Combination Sum](https://leetcode.com/problems/combination-sum/)
+* [Leetcode : Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 
 # 1.23
 * [Leetcode : Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
