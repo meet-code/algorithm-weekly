@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 1.31
+* Leetcode : Contains Duplicate
+* Leetcode : Combination Sum
+* Leetcode : Remove Invalid Parentheses
+
 # 1.23
 * [Leetcode : Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams/)
