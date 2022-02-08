@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 2.7
-* Leetcode : Power of Four
-* Leetcode : Sort Colors
-* Leetcode : Word Ladder
+* [Leetcode : Power of Four](https://leetcode.com/problems/power-of-four/)
+* [Leetcode : Sort Colors](https://leetcode.com/problems/sort-colors/)
+* [Leetcode : Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 # 1.31
 * [Leetcode : Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
