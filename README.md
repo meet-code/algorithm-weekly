@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 2.7
+* Leetcode : Power of Four
+* Leetcode : Sort Colors
+* Leetcode : Word Ladder
+
 # 1.31
 * [Leetcode : Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [Leetcode : Combination Sum](https://leetcode.com/problems/combination-sum/)
