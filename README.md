@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 2.14
+* Leetcode : Is Subsequence
+* Leetcode : Swap Nodes in Pairs
+* Leetcode : Scramble String
+
 # 2.7
 * [Leetcode : Power of Four](https://leetcode.com/problems/power-of-four/)
 * [Leetcode : Sort Colors](https://leetcode.com/problems/sort-colors/)
