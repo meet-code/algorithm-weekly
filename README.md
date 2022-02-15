@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 2.14
-* Leetcode : Is Subsequence
-* Leetcode : Swap Nodes in Pairs
-* Leetcode : Scramble String
+* [Leetcode : Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+* [Leetcode : Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+* [Leetcode : Scramble String](https://leetcode.com/problems/scramble-string/)
 
 # 2.7
 * [Leetcode : Power of Four](https://leetcode.com/problems/power-of-four/)
