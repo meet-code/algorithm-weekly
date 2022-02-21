@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 2.22
-* Leetcode : Longest Continuous Increasing Subsequence
-* Leetcode : Word Search
-* Leetcode : IPO
+* [Leetcode : Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+* [Leetcode : Word Search](https://leetcode.com/problems/word-search/)
+* [Leetcode : IPO](https://leetcode.com/problems/ipo/)
 
 # 2.14
 * [Leetcode : Is Subsequence](https://leetcode.com/problems/is-subsequence/)
