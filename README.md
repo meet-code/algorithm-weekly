@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 2.22
+* Leetcode : Longest Continuous Increasing Subsequence
+* Leetcode : Word Search
+* Leetcode : IPO
+
 # 2.14
 * [Leetcode : Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 * [Leetcode : Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
