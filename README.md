@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 2.27
-* Leetcode : Fair Candy Swap
-* Leetcode : Minimum Genetic Mutation
-* Leetcode : Remove Boxes
+* [Leetcode : Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+* [Leetcode : Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+* [Leetcode : Remove Boxes](https://leetcode.com/problems/remove-boxes/)
 
 # 2.22
 * [Leetcode : Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
