@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 2.27
+* Leetcode : Fair Candy Swap
+* Leetcode : Minimum Genetic Mutation
+* Leetcode : Remove Boxes
+
 # 2.22
 * [Leetcode : Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 * [Leetcode : Word Search](https://leetcode.com/problems/word-search/)
