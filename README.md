@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 3.7
-* Leetcode : Robot Return to Origin
-* Leetcode : Course Schedule
-* Leetcode : Basic Calculator
+* [Leetcode : Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+* [Leetcode : Course Schedule](https://leetcode.com/problems/course-schedule/)
+* [Leetcode : Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
 # 2.27
 * [Leetcode : Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
