@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 3.7
+* Leetcode : Robot Return to Origin
+* Leetcode : Course Schedule
+* Leetcode : Basic Calculator
+
 # 2.27
 * [Leetcode : Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 * [Leetcode : Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
