@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 3.14
-* Leetcode : Climbing Stairs
-* Leetcode : Simplify Path
-* Leetcode : Dungeon Game
+* [Leetcode : Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+* [Leetcode : Simplify Path](https://leetcode.com/problems/simplify-path/)
+* [Leetcode : Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 
 # 3.7
 * [Leetcode : Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
