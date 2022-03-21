@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 3.21
-* Leetcode : Same Tree
-* Leetcode : Next Permutation
-* Leetcode : Serialize and Deserialize Binary Tree
+* [Leetcode : Same Tree](https://leetcode.com/problems/same-tree/)
+* [Leetcode : Next Permutation](https://leetcode.com/problems/next-permutation/)
+* [Leetcode : Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 # 3.14
 * [Leetcode : Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
