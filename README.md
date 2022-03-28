@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 3.28
-* Leetcode : Fizz Buzz
-* Leetcode : Integer Break
-* Leetcode : Sliding Window Median
+* [Leetcode : Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+* [Leetcode : Integer Break](https://leetcode.com/problems/integer-break/)
+* [Leetcode : Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 # 3.21
 * [Leetcode : Same Tree](https://leetcode.com/problems/same-tree/)
