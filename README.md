@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 3.28
+* Leetcode : Fizz Buzz
+* Leetcode : Integer Break
+* Leetcode : Sliding Window Median
+
 # 3.21
 * [Leetcode : Same Tree](https://leetcode.com/problems/same-tree/)
 * [Leetcode : Next Permutation](https://leetcode.com/problems/next-permutation/)
