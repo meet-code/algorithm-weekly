@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 
+# 4.6
+* Leetcode : Binary Search
+* Leetcode : 3Sum With Multiplicity
+
 # 3.28
 * [Leetcode : Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 * [Leetcode : Integer Break](https://leetcode.com/problems/integer-break/)
