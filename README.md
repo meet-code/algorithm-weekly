@@ -1,8 +1,8 @@
 # 알고리즘 문제 리스트
 
 # 4.6
-* Leetcode : Binary Search
-* Leetcode : 3Sum With Multiplicity
+* [Leetcode : Binary Search](https://leetcode.com/problems/binary-search/)
+* [Leetcode : 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
 
 # 3.28
 * [Leetcode : Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
