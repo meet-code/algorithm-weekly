@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 4.18
-* Leetcode : Monotonic Array
-* Leetcode : Perfect Squares
-* Leetcode : Swim in Rising Water
+* [Leetcode : Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+* [Leetcode : Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+* [Leetcode : Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
 
 # 4.12
 * [Leetcode : Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
