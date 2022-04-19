@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 4.18
+* Leetcode : Monotonic Array
+* Leetcode : Perfect Squares
+* Leetcode : Swim in Rising Water
+
 # 4.12
 * [Leetcode : Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 * [Leetcode : Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
