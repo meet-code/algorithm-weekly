@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 4.27
-* Leetcode : Search Insert Position
-* Leetcode : Partition List
-* Leetcode : K-th Smallest Prime Fraction
+* [Leetcode : Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+* [Leetcode : Partition List](https://leetcode.com/problems/partition-list/)
+* [Leetcode : K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
 
 # 4.18
 * [Leetcode : Monotonic Array](https://leetcode.com/problems/monotonic-array/)
