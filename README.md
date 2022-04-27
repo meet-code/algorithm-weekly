@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 4.27
+* Leetcode : Search Insert Position
+* Leetcode : Partition List
+* Leetcode : K-th Smallest Prime Fraction
+
 # 4.18
 * [Leetcode : Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 * [Leetcode : Perfect Squares](https://leetcode.com/problems/perfect-squares/)
