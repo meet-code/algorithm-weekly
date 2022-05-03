@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 5.3
+* Leetcode : Buddy Strings
+* Leetcode : Search a 2D Matrix II
+* Leetcode : Arithmetic Slices II - Subsequence
+
 # 4.27
 * [Leetcode : Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 * [Leetcode : Partition List](https://leetcode.com/problems/partition-list/)
