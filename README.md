@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 5.10
-* Leetcode : Average of Levels in Binary Tree
-* Leetcode : Product of Array Except Self
-* Leetcode : Wildcard Matching
+* [Leetcode : Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+* [Leetcode : Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+* [Leetcode : Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 
 # 5.3
 * [Leetcode : Buddy Strings](https://leetcode.com/problems/buddy-strings/)
