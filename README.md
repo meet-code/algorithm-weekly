@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 5.16
-* Leetcode : Implement Stack using Queues
-* Leetcode : Rotate List
-* Leetcode : Reverse Nodes in k-Group
+* [Leetcode : Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+* [Leetcode : Rotate List](https://leetcode.com/problems/rotate-list/)
+* [Leetcode : Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 # 5.10
 * [Leetcode : Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
