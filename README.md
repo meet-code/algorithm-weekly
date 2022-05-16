@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 5.16
+* Leetcode : Implement Stack using Queues
+* Leetcode : Rotate List
+* Leetcode : Reverse Nodes in k-Group
+
 # 5.10
 * [Leetcode : Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 * [Leetcode : Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
