@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 5.30
-* Leetcode : Minimum Changes To Make Alternating Binary String
-* Leetcode : Closest Divisors
-* Leetcode : Minimum Space Wasted From Packaging
+* [Leetcode : Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+* [Leetcode : Closest Divisors](https://leetcode.com/problems/closest-divisors/)
+* [Leetcode : Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)
 
 # 5.23
 * [Leetcode : Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
