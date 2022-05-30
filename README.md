@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 5.30
+* Leetcode : Minimum Changes To Make Alternating Binary String
+* Leetcode : Closest Divisors
+* Leetcode : Minimum Space Wasted From Packaging
+
 # 5.23
 * [Leetcode : Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 * [Leetcode : Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
