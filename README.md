@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 6.5
+* Leetcode : Move Zeroes
+* Leetcode : Maximum Number of Occurrences of a Substring
+* Leetcode : Maximum Students Taking Exam
+
 # 5.30
 * [Leetcode : Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
 * [Leetcode : Closest Divisors](https://leetcode.com/problems/closest-divisors/)
