@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 6.5
-* Leetcode : Move Zeroes
-* Leetcode : Maximum Number of Occurrences of a Substring
-* Leetcode : Maximum Students Taking Exam
+* [Leetcode : Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+* [Leetcode : Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)
+* [Leetcode : Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)
 
 # 5.30
 * [Leetcode : Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
