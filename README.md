@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 6.13
+* Leetcode : Convert a Number to Hexadecimal
+* Leetcode : Check If Array Pairs Are Divisible by k
+* Leetcode : Kth Smallest Product of Two Sorted Arrays
+
 # 6.5
 * [Leetcode : Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 * [Leetcode : Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)
