@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 6.21
+* Leetcode : Valid Palindrome II
+* Leetcode : Copy List with Random Pointer
+* Leetcode : Make the XOR of All Segments
+
 # 6.13
 * [Leetcode : Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
 * [Leetcode : Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
