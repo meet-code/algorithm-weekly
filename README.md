@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 6.21
-* Leetcode : Valid Palindrome II
-* Leetcode : Copy List with Random Pointer
-* Leetcode : Make the XOR of All Segments
+* [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+* [Leetcode : Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* [Leetcode : Make the XOR of All Segments](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/)
 
 # 6.13
 * [Leetcode : Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
