@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 6.27
-* Leetcode : Reformat The String
-* Leetcode : Number of Boomerangs
-* Leetcode : Count All Valid Pickup and Delivery Options
+* [Leetcode : Reformat The String](https://leetcode.com/problems/reformat-the-string/)
+* [Leetcode : Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
+* [Leetcode : Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
 
 # 6.21
 * [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
