@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 6.27
+* Leetcode : Reformat The String
+* Leetcode : Number of Boomerangs
+* Leetcode : Count All Valid Pickup and Delivery Options
+
 # 6.21
 * [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 * [Leetcode : Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
