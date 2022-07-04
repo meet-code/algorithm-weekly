@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 7.4
+* Leetcode : How Many Numbers Are Smaller Than the Current Number
+* Leetcode : Magic Squares In Grid
+* Leetcode : Maximum Number of Visible Points
+
 # 6.27
 * [Leetcode : Reformat The String](https://leetcode.com/problems/reformat-the-string/)
 * [Leetcode : Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
