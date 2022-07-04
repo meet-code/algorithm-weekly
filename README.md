@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 7.4
-* Leetcode : How Many Numbers Are Smaller Than the Current Number
-* Leetcode : Magic Squares In Grid
-* Leetcode : Maximum Number of Visible Points
+* [Leetcode : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+* [Leetcode : Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)
+* [Leetcode : Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)
 
 # 6.27
 * [Leetcode : Reformat The String](https://leetcode.com/problems/reformat-the-string/)
