@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 7.11
-* Leetcode : Number of Valid Words in a Sentence
-* Leetcode : Pancake Sorting
-* Leetcode : Parallel Courses III
+* [Leetcode : Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
+* [Leetcode : Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
+* [Leetcode : Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
 
 # 7.4
 * [Leetcode : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
