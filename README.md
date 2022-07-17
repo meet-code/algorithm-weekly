@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 7.17
+* Leetcode : Special Array With X Elements Greater Than or Equal X
+* Leetcode : Minimum Total Space Wasted With K Resizing Operations
+* Leetcode : Maximum Frequency Stack
+
 # 7.11
 * [Leetcode : Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
 * [Leetcode : Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
