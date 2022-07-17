@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 7.17
-* Leetcode : Special Array With X Elements Greater Than or Equal X
-* Leetcode : Minimum Total Space Wasted With K Resizing Operations
-* Leetcode : Maximum Frequency Stack
+* [Leetcode : Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+* [Leetcode : Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/)
+* [Leetcode : Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
 # 7.11
 * [Leetcode : Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
