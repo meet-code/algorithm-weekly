@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 7.26
-* Leetcode : Ransom Note
-* Leetcode : The Number of Weak Characters in the Game
-* Leetcode : Minimum Number of Taps to Open to Water a Garden
+* [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
+* [Leetcode : The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+* [Leetcode : Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
 
 # 7.17
 * [Leetcode : Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
