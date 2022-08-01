@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.1
+* Leetcode : Middle of the Linked List
+* Leetcode : Decode XORed Permutation
+* Leetcode : Tag Validator
+
 # 7.26
 * [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
 * [Leetcode : The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
