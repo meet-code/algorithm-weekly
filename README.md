@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.8
+* Leetcode : Hamming Distance
+* Leetcode : Open the Lock
+* Leetcode : Find Longest Awesome Substring
+
 # 8.1
 * [Leetcode : Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 * [Leetcode : Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)
