@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.8
-* Leetcode : Hamming Distance
-* Leetcode : Open the Lock
-* Leetcode : Find Longest Awesome Substring
+* [Leetcode : Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+* [Leetcode : Open the Lock](https://leetcode.com/problems/open-the-lock/)
+* [Leetcode : Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
 
 # 8.1
 * [Leetcode : Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
