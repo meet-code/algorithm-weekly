@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.14
-* Leetcode : Shuffle String
-* Leetcode : Count Number of Homogenous Substrings
-* Leetcode : Online Majority Element In Subarray
+* [Leetcode : Shuffle String](https://leetcode.com/problems/shuffle-string/)
+* [Leetcode : Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+* [Leetcode : Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
 
 # 8.8
 * [Leetcode : Hamming Distance](https://leetcode.com/problems/hamming-distance/)
