@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.14
+* Leetcode : Shuffle String
+* Leetcode : Count Number of Homogenous Substrings
+* Leetcode : Online Majority Element In Subarray
+
 # 8.8
 * [Leetcode : Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 * [Leetcode : Open the Lock](https://leetcode.com/problems/open-the-lock/)
