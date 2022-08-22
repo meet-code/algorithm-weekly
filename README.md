@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.23
+* Leetcode : Find the Distance Value Between Two Arrays
+* Leetcode : Binary Trees With Factors
+* Leetcode : Reverse Pairs
+
 # 8.14
 * [Leetcode : Shuffle String](https://leetcode.com/problems/shuffle-string/)
 * [Leetcode : Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
