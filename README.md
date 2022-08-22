@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.23
-* Leetcode : Find the Distance Value Between Two Arrays
-* Leetcode : Binary Trees With Factors
-* Leetcode : Reverse Pairs
+* [Leetcode : Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+* [Leetcode : Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
+* [Leetcode : Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 # 8.14
 * [Leetcode : Shuffle String](https://leetcode.com/problems/shuffle-string/)
