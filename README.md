@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 8.28
-* Leetcode : Sum of All Odd Length Subarrays
-* Leetcode : Construct K Palindrome Strings
-* Leetcode : Number of Ways to Rearrange Sticks With K Sticks Visible
+* [Leetcode : Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
+* [Leetcode : Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
+* [Leetcode : Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
 
 # 8.23
 * [Leetcode : Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
