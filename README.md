@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.28
+* Leetcode : Sum of All Odd Length Subarrays
+* Leetcode : Construct K Palindrome Strings
+* Leetcode : Number of Ways to Rearrange Sticks With K Sticks Visible
+
 # 8.23
 * [Leetcode : Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 * [Leetcode : Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
