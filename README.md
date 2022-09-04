@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 9.4
-* Leetcode : Path Crossing
-* Leetcode : Minimize Hamming Distance After Swap Operations
-* Leetcode : Reverse Subarray To Maximize Array Value
+* [Leetcode : Path Crossing](https://leetcode.com/problems/path-crossing/)
+* [Leetcode : Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/)
+* [Leetcode : Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/)
 
 # 8.28
 * [Leetcode : Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
