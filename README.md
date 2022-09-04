@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 9.4
+* Leetcode : Path Crossing
+* Leetcode : Minimize Hamming Distance After Swap Operations
+* Leetcode : Reverse Subarray To Maximize Array Value
+
 # 8.28
 * [Leetcode : Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 * [Leetcode : Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
