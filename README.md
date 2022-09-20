@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 9.21
+* Leetcode : Ugly Number
+* Leetcode : Reveal Cards In Increasing Order
+* Leetcode : Maximum Number of Darts Inside of a Circular Dartboard
+
 # 9.4
 * [Leetcode : Path Crossing](https://leetcode.com/problems/path-crossing/)
 * [Leetcode : Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/)
