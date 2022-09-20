@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 9.21
-* Leetcode : Ugly Number
-* Leetcode : Reveal Cards In Increasing Order
-* Leetcode : Maximum Number of Darts Inside of a Circular Dartboard
+* [Leetcode : Ugly Number](https://leetcode.com/problems/ugly-number/)
+* [Leetcode : Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+* [Leetcode : Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
 
 # 9.4
 * [Leetcode : Path Crossing](https://leetcode.com/problems/path-crossing/)
