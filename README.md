@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 9.26
+* Leetcode : Reshape the Matrix
+* Leetcode : Non-decreasing Array
+* Leetcode : Find a Value of a Mysterious Function Closest to Target
+
 # 9.21
 * [Leetcode : Ugly Number](https://leetcode.com/problems/ugly-number/)
 * [Leetcode : Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
