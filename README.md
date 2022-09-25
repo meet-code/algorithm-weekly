@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 9.26
-* Leetcode : Reshape the Matrix
-* Leetcode : Non-decreasing Array
-* Leetcode : Find a Value of a Mysterious Function Closest to Target
+* [Leetcode : Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+* [Leetcode : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+* [Leetcode : Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)
 
 # 9.21
 * [Leetcode : Ugly Number](https://leetcode.com/problems/ugly-number/)
