@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.2
+* Leetcode : Replace All ?'s to Avoid Consecutive Repeating Characters
+* Leetcode : Minimum Swaps to Group All 1's Together II
+* Leetcode : Vertical Order Traversal of a Binary Tree
+
 # 9.26
 * [Leetcode : Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 * [Leetcode : Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
