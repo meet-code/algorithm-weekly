@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.2
-* Leetcode : Replace All ?'s to Avoid Consecutive Repeating Characters
-* Leetcode : Minimum Swaps to Group All 1's Together II
-* Leetcode : Vertical Order Traversal of a Binary Tree
+* [Leetcode : Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
+* [Leetcode : Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)
+* [Leetcode : Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
 # 9.26
 * [Leetcode : Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
