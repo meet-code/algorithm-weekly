@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.10
+* Leetcode : Rings and Rods
+* Leetcode : All Divisions With the Highest Score of a Binary Array
+* Leetcode : Numbers With Repeated Digits
+
 # 10.2
 * [Leetcode : Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
 * [Leetcode : Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)
