@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.10
-* Leetcode : Rings and Rods
-* Leetcode : All Divisions With the Highest Score of a Binary Array
-* Leetcode : Numbers With Repeated Digits
+* [Leetcode : Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
+* [Leetcode : All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)
+* [Leetcode : Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)
 
 # 10.2
 * [Leetcode : Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
