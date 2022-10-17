@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.16
-* Leetcode : Power of Two
-* Leetcode : Path Sum III
-* Leetcode : Minimum Number of Increments on Subarrays to Form a Target Array
+* [Leetcode : Power of Two](https://leetcode.com/problems/power-of-two/)
+* [Leetcode : Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+* [Leetcode : Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
 
 # 10.10
 * [Leetcode : Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
