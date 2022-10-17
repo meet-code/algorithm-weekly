@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.16
+* Leetcode : Power of Two
+* Leetcode : Path Sum III
+* Leetcode : Minimum Number of Increments on Subarrays to Form a Target Array
+
 # 10.10
 * [Leetcode : Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
 * [Leetcode : All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)
