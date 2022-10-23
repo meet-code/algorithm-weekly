@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.23
-* Leetcode : Remove All Adjacent Duplicates In String
-* Leetcode : Shortest Subarray to be Removed to Make Array Sorted
-* Leetcode : Process Restricted Friend Requests
+* [Leetcode : Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+* [Leetcode : Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
+* [Leetcode : Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
 
 # 10.16
 * [Leetcode : Power of Two](https://leetcode.com/problems/power-of-two/)
