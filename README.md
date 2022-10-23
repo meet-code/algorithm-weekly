@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.23
+* Leetcode : Remove All Adjacent Duplicates In String
+* Leetcode : Shortest Subarray to be Removed to Make Array Sorted
+* Leetcode : Process Restricted Friend Requests
+
 # 10.16
 * [Leetcode : Power of Two](https://leetcode.com/problems/power-of-two/)
 * [Leetcode : Path Sum III](https://leetcode.com/problems/path-sum-iii/)
