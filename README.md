@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 10.30
+* Leetcode : Root Equals Sum of Children
+* Leetcode : Flip String to Monotone Increasing
+* Leetcode : Preimage Size of Factorial Zeroes Function
+
 # 10.23
 * [Leetcode : Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 * [Leetcode : Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
