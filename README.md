@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 10.30
-* Leetcode : Root Equals Sum of Children
-* Leetcode : Flip String to Monotone Increasing
-* Leetcode : Preimage Size of Factorial Zeroes Function
+* [Leetcode : Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
+* [Leetcode : Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
+* [Leetcode : Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)
 
 # 10.23
 * [Leetcode : Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
