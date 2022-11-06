@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 11.6
-* Leetcode : Minimum Cost of Buying Candies With Discount
-* Leetcode : Minimum Cost Homecoming of a Robot in a Grid
-* Leetcode : Minimum Cost to Cut a Stick
+* [Leetcode : Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/)
+* [Leetcode : Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)
+* [Leetcode : Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
 # 10.30
 * [Leetcode : Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
