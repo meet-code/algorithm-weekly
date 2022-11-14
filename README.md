@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 11.14
+* Leetcode : Special Positions in a Binary Matrix
+* Leetcode : Maximum Level Sum of a Binary Tree
+* Leetcode : Find Substring With Given Hash Value
+
 # 11.6
 * [Leetcode : Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/)
 * [Leetcode : Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)
