@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 
 # 11.14
-* Leetcode : Special Positions in a Binary Matrix
-* Leetcode : Maximum Level Sum of a Binary Tree
-* Leetcode : Find Substring With Given Hash Value
+* [Leetcode : Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)
+* [Leetcode : Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+* [Leetcode : Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/)
 
 # 11.6
 * [Leetcode : Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/submissions/)
