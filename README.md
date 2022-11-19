@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 11.20
+* Leetcode : Binary Tree Preorder Traversal
+* Leetcode : Solving Questions With Brainpower
+* Leetcode : Maximum Equal Frequency
+
 # 11.14
 * [Leetcode : Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)
 * [Leetcode : Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
