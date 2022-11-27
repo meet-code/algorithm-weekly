@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 11.27
+* Leetcode : Count Good Triplets
+* Leetcode : Can Convert String in K Moves
+* Leetcode : Minimum Insertion Steps to Make a String Palindrome
+
 # 11.20
 * [Leetcode : Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 * [Leetcode : Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
