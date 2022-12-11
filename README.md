@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.11
-* Leetcode : Find Pivot Index
-* Leetcode : Maximum Trailing Zeros in a Cornered Path
-* Leetcode : Best Time to Buy and Sell Stock III
+* [Leetcode : Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+* [Leetcode : Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)
+* [Leetcode : Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 # 12.4
 * [Leetcode : Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
