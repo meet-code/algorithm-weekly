@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.19
-* Leetcode : Find Words That Can Be Formed by Characters
-* Leetcode : Course Schedule II
-* Leetcode : Building Boxes
+* [Leetcode : Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+* [Leetcode : Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+* [Leetcode : Building Boxes](https://leetcode.com/problems/building-boxes/)
 
 # 12.11
 * [Leetcode : Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
