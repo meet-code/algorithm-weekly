@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.26
+* Leetcode : Number of Recent Calls
+* Leetcode : Letter Case Permutation
+* Leetcode : Find in Mountain Array
+
 # 12.19
 * [Leetcode : Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 * [Leetcode : Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
