@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.26
-* Leetcode : Number of Recent Calls
-* Leetcode : Letter Case Permutation
-* Leetcode : Find in Mountain Array
+* [Leetcode : Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+* [Leetcode : Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+* [Leetcode : Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 
 # 12.19
 * [Leetcode : Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
