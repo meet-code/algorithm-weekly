@@ -22,14 +22,14 @@
 3. [Leetcode : Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 # 12.4
-* [Leetcode : Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
-* [Leetcode : Image Overlap](https://leetcode.com/problems/image-overlap/)
-* [Leetcode : Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
+1. [Leetcode : Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
+2. [Leetcode : Image Overlap](https://leetcode.com/problems/image-overlap/)
+3. [Leetcode : Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
 
 # 11.27
-* [Leetcode : Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
-* [Leetcode : Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/)
-* [Leetcode : Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
+1. [Leetcode : Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
+2. [Leetcode : Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/)
+3. [Leetcode : Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
 
 # 11.20
 * [Leetcode : Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
