@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.2
-1. Leetcode : Excel Sheet Column Number
-2. Leetcode : Flower Planting With No Adjacent
-3. Leetcode : Maximum Gap
+1. [Leetcode : Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+2. [Leetcode : Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)
+3. [Leetcode : Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 
 # 12.26
 1. [Leetcode : Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
