@@ -1,20 +1,25 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.2
+1. Leetcode : Excel Sheet Column Number
+2. Leetcode : Flower Planting With No Adjacent
+3. Leetcode : Maximum Gap
+
 # 12.26
-* [Leetcode : Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
-* [Leetcode : Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
-* [Leetcode : Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+1. [Leetcode : Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+2. [Leetcode : Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+3. [Leetcode : Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 
 # 12.19
-* [Leetcode : Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
-* [Leetcode : Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
-* [Leetcode : Building Boxes](https://leetcode.com/problems/building-boxes/)
+1. [Leetcode : Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+2. [Leetcode : Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+3. [Leetcode : Building Boxes](https://leetcode.com/problems/building-boxes/)
 
 # 12.11
-* [Leetcode : Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
-* [Leetcode : Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)
-* [Leetcode : Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+1. [Leetcode : Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+2. [Leetcode : Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)
+3. [Leetcode : Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
 # 12.4
 * [Leetcode : Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
