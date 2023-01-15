@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.15
+1. Leetcode : Power of Three
+2. Leetcode : Balance a Binary Search Tree
+3. Leetcode : Maximum Running Time of N Computers
+
 # 1.2
 1. [Leetcode : Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 2. [Leetcode : Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)
