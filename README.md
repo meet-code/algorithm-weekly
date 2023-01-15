@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.15
-1. Leetcode : Power of Three
-2. Leetcode : Balance a Binary Search Tree
-3. Leetcode : Maximum Running Time of N Computers
+1. [Leetcode : Power of Three](https://leetcode.com/problems/power-of-three/)
+2. [Leetcode : Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
+3. [Leetcode : Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
 
 # 1.2
 1. [Leetcode : Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
