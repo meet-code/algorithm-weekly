@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.21
-1. Leetcode : Number of Different Integers in a String
-2. Leetcode : Total Hamming Distance
-3. Leetcode : Minimum Difficulty of a Job
+1. [Leetcode : Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)
+2. [Leetcode : Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+3. [Leetcode : Minimum Difficulty of a Job](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 
 # 1.15
 1. [Leetcode : Power of Three](https://leetcode.com/problems/power-of-three/)
