@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.21
+1. Leetcode : Number of Different Integers in a String
+2. Leetcode : Total Hamming Distance
+3. Leetcode : Minimum Difficulty of a Job
+
 # 1.15
 1. [Leetcode : Power of Three](https://leetcode.com/problems/power-of-three/)
 2. [Leetcode : Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
