@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.29
-1. Leetcode : Duplicate Emails
-2. Leetcode : Cinema Seat Allocation
-3. Leetcode : Minimum Cost to Hire K Workers
+1. [Leetcode : Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+2. [Leetcode : Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+3. [Leetcode : Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
 
 # 1.21
 1. [Leetcode : Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)
