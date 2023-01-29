@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.29
+1. Leetcode : Duplicate Emails
+2. Leetcode : Cinema Seat Allocation
+3. Leetcode : Minimum Cost to Hire K Workers
+
 # 1.21
 1. [Leetcode : Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)
 2. [Leetcode : Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
