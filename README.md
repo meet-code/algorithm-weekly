@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.5
+1. Leetcode : Kids With the Greatest Number of Candies
+2. Leetcode : Find And Replace in String
+3. Leetcode : Similar String Groups
+
 # 1.29
 1. [Leetcode : Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 2. [Leetcode : Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
