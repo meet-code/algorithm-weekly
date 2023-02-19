@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 2.19
-1. Leetcode : N-ary Tree Preorder Traversal
-2. Leetcode : Group Anagrams
-3. Leetcode : Maximum Number of Events That Can Be Attended II
+1. [Leetcode : N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+2. [Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+3. [Leetcode : Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
 
 # 2.5
 1. [Leetcode : Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
