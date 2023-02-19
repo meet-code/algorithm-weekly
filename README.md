@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.19
+1. Leetcode : N-ary Tree Preorder Traversal
+2. Leetcode : Group Anagrams
+3. Leetcode : Maximum Number of Events That Can Be Attended II
+
 # 2.5
 1. [Leetcode : Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 2. [Leetcode : Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
