@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.13
-1. Leetcode : Prime Arrangements
-2. Leetcode : Minimum Limit of Balls in a Bag
-3. Leetcode : Perfect Rectangle
+1. [Leetcode : Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)
+2. [Leetcode : Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
+3. [Leetcode : Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 
 # 2.19
 1. [Leetcode : N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
