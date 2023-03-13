@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.13
+1. Leetcode : Prime Arrangements
+2. Leetcode : Minimum Limit of Balls in a Bag
+3. Leetcode : Perfect Rectangle
+
 # 2.19
 1. [Leetcode : N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 2. [Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams/)
