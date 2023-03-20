@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.19
+1. Leetcode : Swap Salary
+2. Leetcode : Evaluate Reverse Polish Notation
+3. Leetcode : Maximum Genetic Difference Query
+
 # 3.13
 1. [Leetcode : Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)
 2. [Leetcode : Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
