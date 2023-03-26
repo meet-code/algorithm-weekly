@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.26
-1. Leetcode : Valid Palindrome
-2. Leetcode : Delete Leaves With a Given Value
-3. Leetcode : Number of Valid Move Combinations On Chessboard
+1. [Leetcode : Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+2. [Leetcode : Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
+3. [Leetcode : Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)
 
 # 3.19
 1. [Leetcode : Swap Salary](https://leetcode.com/problems/swap-salary/)
