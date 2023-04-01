@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.2
-1. Leetcode : Valid Boomerang
-2. Leetcode : Distribute Coins in Binary Tree
-3. Leetcode : Create Maximum Number
+1. [Leetcode : Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
+2. [Leetcode : Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+3. [Leetcode : Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
 
 # 3.26
 1. [Leetcode : Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
