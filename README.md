@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.2
+1. Leetcode : Valid Boomerang
+2. Leetcode : Distribute Coins in Binary Tree
+3. Leetcode : Create Maximum Number
+
 # 3.26
 1. [Leetcode : Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 2. [Leetcode : Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
