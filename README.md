@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.9
+1. Leetcode : Keep Multiplying Found Values by Two
+2. Leetcode : Find a Peak Element II
+3. Leetcode : Minimum Incompatibility
+
 # 4.2
 1. [Leetcode : Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
 2. [Leetcode : Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
