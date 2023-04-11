@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.9
-1. Leetcode : Keep Multiplying Found Values by Two
-2. Leetcode : Find a Peak Element II
-3. Leetcode : Minimum Incompatibility
+1. [Leetcode : Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
+2. [Leetcode : Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
+3. [Leetcode : Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/)
 
 # 4.2
 1. [Leetcode : Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
