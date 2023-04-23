@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.23
-1. Leetcode : Sum of Root To Leaf Binary Numbers
-2. Leetcode : Binary Search Tree to Greater Sum Tree
-3. Leetcode : Trips and Users
+1. [Leetcode : Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+2. [Leetcode : Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+3. [Leetcode : Trips and Users](https://leetcode.com/problems/trips-and-users/)
 
 # 4.9
 1. [Leetcode : Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
