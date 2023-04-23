@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.23
+1. Leetcode : Sum of Root To Leaf Binary Numbers
+2. Leetcode : Binary Search Tree to Greater Sum Tree
+3. Leetcode : Trips and Users
+
 # 4.9
 1. [Leetcode : Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
 2. [Leetcode : Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
