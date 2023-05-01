@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.30
-1. Leetcode : Thousand Separator
-2. Leetcode : 4Sum II
-3. Leetcode : Tiling a Rectangle with the Fewest Squares
+1. [Leetcode : Thousand Separator](https://leetcode.com/problems/thousand-separator/)
+2. [Leetcode : 4Sum II](https://leetcode.com/problems/4sum-ii/)
+3. [Leetcode : Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/)
 
 # 4.23
 1. [Leetcode : Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
