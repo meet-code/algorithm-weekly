@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 5.7
+1. Leetcode : Intersection of Two Arrays II
+2. Leetcode : Number of Smooth Descent Periods of a Stock
+3. Leetcode : Minimum White Tiles After Covering With Carpets
+
 # 4.30
 1. [Leetcode : Thousand Separator](https://leetcode.com/problems/thousand-separator/)
 2. [Leetcode : 4Sum II](https://leetcode.com/problems/4sum-ii/)
