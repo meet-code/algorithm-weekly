@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.7
-1. Leetcode : Intersection of Two Arrays II
-2. Leetcode : Number of Smooth Descent Periods of a Stock
-3. Leetcode : Minimum White Tiles After Covering With Carpets
+1. [Leetcode : Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+2. [Leetcode : Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)
+3. [Leetcode : Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
 
 # 4.30
 1. [Leetcode : Thousand Separator](https://leetcode.com/problems/thousand-separator/)
