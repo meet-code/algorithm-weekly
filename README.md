@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.21
-1. Leetcode : Binary Watch
-2. Leetcode : Additive Number
-3. Leetcode : Max Value of Equation
+1. [Leetcode : Binary Watch](https://leetcode.com/problems/binary-watch/)
+2. [Leetcode : Additive Number](https://leetcode.com/problems/additive-number/)
+3. [Leetcode : Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 
 # 5.7
 1. [Leetcode : Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
