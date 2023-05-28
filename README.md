@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.28
-1. Leetcode : Minimum Value to Get Positive Step by Step Sum
-2. Leetcode : Maximum Length of Repeated Subarray
-3. Leetcode : Sum of Floored Pairs
+1. [Leetcode : Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
+2. [Leetcode : Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+3. [Leetcode : Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs/)
 
 # 5.21
 1. [Leetcode : Binary Watch](https://leetcode.com/problems/binary-watch/)
