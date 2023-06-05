@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.5
+1. Leetcode : Count Number of Pairs With Absolute Difference K
+2. Leetcode : Rotate Array
+3. Leetcode : Find the Kth Smallest Sum of a Matrix With Sorted Rows
+
 # 5.28
 1. [Leetcode : Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 2. [Leetcode : Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
