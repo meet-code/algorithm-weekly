@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.5
-1. Leetcode : Count Number of Pairs With Absolute Difference K
-2. Leetcode : Rotate Array
-3. Leetcode : Find the Kth Smallest Sum of a Matrix With Sorted Rows
+1. [Leetcode : Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
+2. [Leetcode : Rotate Array](https://leetcode.com/problems/rotate-array/)
+3. [Leetcode : Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)
 
 # 5.28
 1. [Leetcode : Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
