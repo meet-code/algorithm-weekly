@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.11
-1. Leetcode : Reformat Department Table
-2. Leetcode : Minimum Path Sum
-3. Leetcode : Concatenated Words
+1. [Leetcode : Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
+2. [Leetcode : Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+3. [Leetcode : Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 
 # 6.5
 1. [Leetcode : Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
