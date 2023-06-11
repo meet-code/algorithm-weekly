@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.11
+1. Leetcode : Reformat Department Table
+2. Leetcode : Minimum Path Sum
+3. Leetcode : Concatenated Words
+
 # 6.5
 1. [Leetcode : Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 2. [Leetcode : Rotate Array](https://leetcode.com/problems/rotate-array/)
