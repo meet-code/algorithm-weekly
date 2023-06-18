@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.18
-1. Leetcode : Roman to Integer
-2. Leetcode : Find Minimum in Rotated Sorted Array
-3. Leetcode : Maximum Sum of 3 Non-Overlapping Subarrays
+1. [Leetcode : Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+2. [Leetcode : Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+3. [Leetcode : Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 
 # 6.11
 1. [Leetcode : Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
