@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.18
+1. Leetcode : Roman to Integer
+2. Leetcode : Find Minimum in Rotated Sorted Array
+3. Leetcode : Maximum Sum of 3 Non-Overlapping Subarrays
+
 # 6.11
 1. [Leetcode : Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 2. [Leetcode : Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
