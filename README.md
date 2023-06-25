@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.25
-1. Leetcode : Check If a Word Occurs As a Prefix of Any Word in a Sentence
-2. Leetcode : Reverse Nodes in Even Length Groups
-3. Leetcode : Number Of Ways To Reconstruct A Tree
+1. [Leetcode : Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
+2. [Leetcode : Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
+3. [Leetcode : Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/)
 
 # 6.18
 1. [Leetcode : Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
