@@ -1,5 +1,9 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
+# 7.2
+1. Leetcode : Transpose Matrix
+2. Leetcode : Shopping Offers
+3. Leetcode : Minimize Deviation in Array
 
 # 6.25
 1. [Leetcode : Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
