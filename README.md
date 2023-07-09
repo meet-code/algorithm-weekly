@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.9
-1. Leetcode : Detect Capital
-2. Leetcode : Rabbits in Forest
-3. Leetcode : Count Unique Characters of All Substrings of a Given String
+1. [Leetcode : Detect Capital](https://leetcode.com/problems/detect-capital/)
+2. [Leetcode : Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
+3. [Leetcode : Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
 
 # 7.2
 1. [Leetcode : Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
