@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
+
+# 7.9
+1. Leetcode : Detect Capital
+2. Leetcode : Rabbits in Forest
+3. Leetcode : Count Unique Characters of All Substrings of a Given String
+
 # 7.2
 1. [Leetcode : Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 2. [Leetcode : Shopping Offers](https://leetcode.com/problems/shopping-offers/)
