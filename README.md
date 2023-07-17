@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.18
+1. Leetcode : Range Addition II
+2. Leetcode : Get Equal Substrings Within Budget
+3. Leetcode : Minimum One Bit Operations to Make Integers Zero
+
 # 7.9
 1. [Leetcode : Detect Capital](https://leetcode.com/problems/detect-capital/)
 2. [Leetcode : Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
