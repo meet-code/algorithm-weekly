@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.23
-1. Leetcode : Article Views I
-2. Leetcode : Minimum Cost to Set Cooking Time
-3. Leetcode : Maximum Profit in Job Scheduling
+1. [Leetcode : Article Views I](https://leetcode.com/problems/article-views-i/)
+2. [Leetcode : Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/)
+3. [Leetcode : Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
 # 7.18
 1. [Leetcode : Range Addition II](https://leetcode.com/problems/range-addition-ii/)
