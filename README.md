@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.23
+1. Leetcode : Article Views I
+2. Leetcode : Minimum Cost to Set Cooking Time
+3. Leetcode : Maximum Profit in Job Scheduling
+
 # 7.18
 1. [Leetcode : Range Addition II](https://leetcode.com/problems/range-addition-ii/)
 2. [Leetcode : Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
