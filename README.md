@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.30
-1. Leetcode : Minimum Time to Type Word Using Special Typewriter
-2. Leetcode : Stone Game II
-3. Leetcode : Shortest Path to Get All Keys
+1. [Leetcode : Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)
+2. [Leetcode : Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+3. [Leetcode : Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
 
 # 7.23
 1. [Leetcode : Article Views I](https://leetcode.com/problems/article-views-i/)
