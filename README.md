@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.30
+1. Leetcode : Minimum Time to Type Word Using Special Typewriter
+2. Leetcode : Stone Game II
+3. Leetcode : Shortest Path to Get All Keys
+
 # 7.23
 1. [Leetcode : Article Views I](https://leetcode.com/problems/article-views-i/)
 2. [Leetcode : Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/)
