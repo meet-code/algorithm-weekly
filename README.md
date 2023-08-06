@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 8.6
-1. Leetcode : Destination City
-2. Leetcode : Minimum Operations to Make Array Equal
-3. Leetcode : Kth Smallest Product of Two Sorted Arrays
+1. [Leetcode : Destination City](https://leetcode.com/problems/destination-city/)
+2. [Leetcode : Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
+3. [Leetcode : Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
 
 # 7.30
 1. [Leetcode : Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)
