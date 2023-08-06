@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.6
+1. Leetcode : Destination City
+2. Leetcode : Minimum Operations to Make Array Equal
+3. Leetcode : Kth Smallest Product of Two Sorted Arrays
+
 # 7.30
 1. [Leetcode : Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)
 2. [Leetcode : Stone Game II](https://leetcode.com/problems/stone-game-ii/)
