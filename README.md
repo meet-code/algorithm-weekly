@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 8.13
-1. Leetcode : Add Binary
-2. Leetcode : Queue Reconstruction by Height
-3. Leetcode : Random Pick with Blacklist
+1. [Leetcode : Add Binary](https://leetcode.com/problems/add-binary/)
+2. [Leetcode : Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+3. [Leetcode : Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
 
 # 8.6
 1. [Leetcode : Destination City](https://leetcode.com/problems/destination-city/)
