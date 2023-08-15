@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.13
+1. Leetcode : Add Binary
+2. Leetcode : Queue Reconstruction by Height
+3. Leetcode : Random Pick with Blacklist
+
 # 8.6
 1. [Leetcode : Destination City](https://leetcode.com/problems/destination-city/)
 2. [Leetcode : Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
