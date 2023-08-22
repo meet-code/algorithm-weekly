@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 8.20
-1. Leetcode : Check Whether Two Strings are Almost Equivalent
-2. Leetcode : Redundant Connection
-3. Leetcode : Build Array Where You Can Find The Maximum Exactly K Comparisons
+1. [Leetcode : Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
+2. [Leetcode : Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+3. [Leetcode : Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)
 
 # 8.13
 1. [Leetcode : Add Binary](https://leetcode.com/problems/add-binary/)
