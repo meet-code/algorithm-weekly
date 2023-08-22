@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.20
+1. Leetcode : Check Whether Two Strings are Almost Equivalent
+2. Leetcode : Redundant Connection
+3. Leetcode : Build Array Where You Can Find The Maximum Exactly K Comparisons
+
 # 8.13
 1. [Leetcode : Add Binary](https://leetcode.com/problems/add-binary/)
 2. [Leetcode : Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
