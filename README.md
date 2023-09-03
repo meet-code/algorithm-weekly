@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.3
+1. Leetcode : Divide Array Into Equal Pairs
+2. Leetcode : Minimized Maximum of Products Distributed to Any Store
+3. Leetcode : Minimum Number of Removals to Make Mountain Array
+
 # 8.20
 1. [Leetcode : Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
 2. [Leetcode : Redundant Connection](https://leetcode.com/problems/redundant-connection/)
