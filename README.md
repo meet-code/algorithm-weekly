@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.14
+1. Leetcode : Valid Palindrome II
+2. Leetcode : Break a Palindrome
+3. Leetcode : LFU Cache
+
 # 9.3
 1. [Leetcode : Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
 2. [Leetcode : Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)
