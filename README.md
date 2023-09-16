@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 9.14
-1. Leetcode : Valid Palindrome II
-2. Leetcode : Break a Palindrome
-3. Leetcode : LFU Cache
+1. [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+2. [Leetcode : Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
+3. [Leetcode : LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
 # 9.3
 1. [Leetcode : Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
