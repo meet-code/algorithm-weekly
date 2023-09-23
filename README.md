@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.24
+1. Leetcode : Check if All Characters Have Equal Number of Occurrences
+2. Leetcode : All Elements in Two Binary Search Trees
+3. Leetcode : Allocate Mailboxes
+
 # 9.14
 1. [Leetcode : Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 2. [Leetcode : Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
