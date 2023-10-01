@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 10.1
-1. Leetcode : Implement strStr()
-2. Leetcode : Reverse Linked List II
-3. Leetcode : Minimum Operations to Make the Array K-Increasing
+1. [Leetcode : Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/discuss/250479/28-implement-strstr-simple-java-solution-3ms-with-detailed-explanation)
+2. [Leetcode : Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+3. [Leetcode : Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)
 
 # 9.24
 1. [Leetcode : Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)
