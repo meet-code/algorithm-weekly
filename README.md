@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.1
+1. Leetcode : Implement strStr()
+2. Leetcode : Reverse Linked List II
+3. Leetcode : Minimum Operations to Make the Array K-Increasing
+
 # 9.24
 1. [Leetcode : Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)
 2. [Leetcode : All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
