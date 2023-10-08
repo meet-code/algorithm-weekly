@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 10.7
-1. Leetcode : Day of the Week
-2. Leetcode : Number of Ways to Select Buildings
-3. Leetcode : Word Search II
+1. [Leetcode : Day of the Week](https://leetcode.com/problems/day-of-the-week/)
+2. [Leetcode : Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/)
+3. [Leetcode : Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 # 10.1
 1. [Leetcode : Implement strStr()](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/discuss/250479/28-implement-strstr-simple-java-solution-3ms-with-detailed-explanation)
