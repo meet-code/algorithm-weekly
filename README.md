@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 10.15
-1. Leetcode : Sign of the Product of an Array
-2. Leetcode : Largest Divisible Subset
-3. Leetcode : Number of Digit One
+1. [Leetcode : Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+2. [Leetcode : Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+3. [Leetcode : Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
 
 # 10.7
 1. [Leetcode : Day of the Week](https://leetcode.com/problems/day-of-the-week/)
