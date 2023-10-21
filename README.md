@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 # 10.22
-1. Leetcode : Complement of Base 10 Integer
-2. Leetcode : Dota2 Senate
-3. Leetcode : Kth Smallest Instructions
+1. [Leetcode : Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+2. [Leetcode : Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+3. [Leetcode : Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/)
 
 # 10.15
 1. [Leetcode : Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
