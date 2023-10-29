@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 #10.29
-1. Leetcode : Merge Two Sorted Lists
-2. Leetcode : Detect Squares
-3. Leetcode : Smallest Range Covering Elements from K Lists
+1. [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+2. [Leetcode : Detect Squares](https://leetcode.com/problems/detect-squares/)
+3. [Leetcode : Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 
 # 10.22
 1. [Leetcode : Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
