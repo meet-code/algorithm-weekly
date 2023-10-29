@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
+
+#10.29
+1. Leetcode : Merge Two Sorted Lists
+2. Leetcode : Detect Squares
+3. Leetcode : Smallest Range Covering Elements from K Lists
+
 # 10.22
 1. [Leetcode : Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 2. [Leetcode : Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
