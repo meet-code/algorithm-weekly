@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 11.5
-1. Leetcode : Print in Order
-2. Leetcode : Rotated Digits
-3. Leetcode : Find Median from Data Stream
+1. [Leetcode : Print in Order](https://leetcode.com/problems/print-in-order/)
+2. [Leetcode : Rotated Digits](https://leetcode.com/problems/rotated-digits/)
+3. [Leetcode : Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 #10.29
 1. [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
