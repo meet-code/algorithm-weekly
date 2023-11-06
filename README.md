@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.5
+1. Leetcode : Print in Order
+2. Leetcode : Rotated Digits
+3. Leetcode : Find Median from Data Stream
+
 #10.29
 1. [Leetcode : Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 2. [Leetcode : Detect Squares](https://leetcode.com/problems/detect-squares/)
