@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.12
+1. Leetcode : Redistribute Characters to Make All Strings Equal
+2. Leetcode : Random Flip Matrix
+3. Leetcode : Special Binary String
+
 # 11.5
 1. [Leetcode : Print in Order](https://leetcode.com/problems/print-in-order/)
 2. [Leetcode : Rotated Digits](https://leetcode.com/problems/rotated-digits/)
