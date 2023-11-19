@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.19
+1. Leetcode : Intersection of Multiple Arrays
+2. Leetcode : Reordered Power of 2
+3. Leetcode : Number of Visible People in a Queue
+
 # 11.12
 1. [Leetcode : Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)
 2. [Leetcode : Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)
