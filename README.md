@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.26
+1. Leetcode : Shortest Completing Word
+2. Leetcode : Minimum Absolute Sum Difference
+3. Leetcode : Poor Pigs
+
 # 11.19
 1. [Leetcode : Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
 2. [Leetcode : Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
