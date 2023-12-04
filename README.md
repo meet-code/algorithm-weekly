@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.3
-1. Leetcode : Check if the Sentence Is Pangram
-2. Leetcode : UTF-8 Validation
-3. Leetcode : Pizza With 3n Slices
+1. [Leetcode : Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+2. [Leetcode : UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+3. [Leetcode : Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)
 
 # 11.26
 1. [Leetcode : Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
