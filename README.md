@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.3
+1. Leetcode : Check if the Sentence Is Pangram
+2. Leetcode : UTF-8 Validation
+3. Leetcode : Pizza With 3n Slices
+
 # 11.26
 1. [Leetcode : Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
 2. [Leetcode : Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
