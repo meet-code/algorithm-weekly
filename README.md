@@ -1,9 +1,9 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 # 12.11
-1. Leetcode : Remove All Adjacent Duplicates In String
-2. Leetcode : Logical OR of Two Binary Grids Represented as Quad-Trees
-3. Leetcode : Minimum Cost to Cut a Stick
+1. [Leetcode : Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+2. [Leetcode : Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
+3. [Leetcode : Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
 # 12.3
 1. [Leetcode : Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
