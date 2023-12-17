@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.17
-1. Leetcode : Nim Game
-2. Leetcode : Largest Merge Of Two Strings
-3. Leetcode : Sequentially Ordinal Rank Tracker
+1. [Leetcode : Nim Game](https://leetcode.com/problems/nim-game/)
+2. [Leetcode : Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)
+3. [Leetcode : Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)
 
 # 12.11
 1. [Leetcode : Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
