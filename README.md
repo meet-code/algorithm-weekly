@@ -1,5 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
+
+# 12.17
+1. Leetcode : Nim Game
+2. Leetcode : Largest Merge Of Two Strings
+3. Leetcode : Sequentially Ordinal Rank Tracker
+
 # 12.11
 1. [Leetcode : Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 2. [Leetcode : Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
