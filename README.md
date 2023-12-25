@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.25
-1. Leetcode : Min Stack
-2. Leetcode : Shifting Letters
-3. Leetcode : Parse Lisp Expression
+1. [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
+2. [Leetcode : Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+3. [Leetcode : Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)
 
 # 12.17
 1. [Leetcode : Nim Game](https://leetcode.com/problems/nim-game/)
