@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.25
+1. Leetcode : Min Stack
+2. Leetcode : Shifting Letters
+3. Leetcode : Parse Lisp Expression
+
 # 12.17
 1. [Leetcode : Nim Game](https://leetcode.com/problems/nim-game/)
 2. [Leetcode : Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)
