@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.2
+1. Leetcode : Minimum Operations to Make the Array Increasing
+2. Leetcode : Possible Bipartition
+3. Leetcode : Frog Position After T Seconds
+
 # 12.25
 1. [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
 2. [Leetcode : Shifting Letters](https://leetcode.com/problems/shifting-letters/)
