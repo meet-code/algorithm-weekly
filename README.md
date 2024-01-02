@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.2
-1. Leetcode : Minimum Operations to Make the Array Increasing
-2. Leetcode : Possible Bipartition
-3. Leetcode : Frog Position After T Seconds
+1. [Leetcode : Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
+2. [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+3. [Leetcode : Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)
 
 # 12.25
 1. [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
