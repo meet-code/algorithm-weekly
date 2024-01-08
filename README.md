@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.8
+1. Leetcode : Determine Whether Matrix Can Be Obtained By Rotation
+2. Leetcode : Snapshot Array
+3. Leetcode : Word Ladder
+
 # 1.2
 1. [Leetcode : Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 2. [Leetcode : Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
