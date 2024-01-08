@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.8
-1. Leetcode : Determine Whether Matrix Can Be Obtained By Rotation
-2. Leetcode : Snapshot Array
-3. Leetcode : Word Ladder
+1. [Leetcode : Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+2. [Leetcode : Snapshot Array](https://leetcode.com/problems/snapshot-array/)
+3. [Leetcode : Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 # 1.2
 1. [Leetcode : Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
