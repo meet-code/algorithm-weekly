@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.17
+1. Leetcode : Divisor Game
+2. Leetcode : Maximum Alternating Subsequence Sum
+3. Leetcode : The Skyline Problem
+
 # 1.8
 1. [Leetcode : Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 2. [Leetcode : Snapshot Array](https://leetcode.com/problems/snapshot-array/)
