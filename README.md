@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.23
-1. Leetcode : Base 7
-2. Leetcode : Palindrome Partitioning
-3. Leetcode : Number of Flowers in Full Bloom
+1. [Leetcode : Base 7](https://leetcode.com/problems/base-7/)
+2. [Leetcode : Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+3. [Leetcode : Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
 
 # 1.17
 1. [Leetcode : Divisor Game](https://leetcode.com/problems/divisor-game/)
