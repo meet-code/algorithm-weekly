@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.30
+1. Leetcode : 819. Most Common Word
+2. Leetcode : 49. Group Anagrams
+3. Leetcode : 2076. Process Restricted Friend Requests
+
 # 1.23
 1. [Leetcode : Base 7](https://leetcode.com/problems/base-7/)
 2. [Leetcode : Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
