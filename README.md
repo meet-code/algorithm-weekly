@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.30
-1. Leetcode : 819. Most Common Word
-2. Leetcode : 49. Group Anagrams
-3. Leetcode : 2076. Process Restricted Friend Requests
+1. [Leetcode : 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
+2. [Leetcode : 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+3. [Leetcode : 2076. Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
 
 # 1.23
 1. [Leetcode : Base 7](https://leetcode.com/problems/base-7/)
