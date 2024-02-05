@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.5
+1. Leetcode : 350. Intersection of Two Arrays II
+2. Leetcode : 1861. Rotating the Box
+3. Leetcode : 768. Max Chunks To Make Sorted II
+
 # 1.30
 1. [Leetcode : 819. Most Common Word](https://leetcode.com/problems/most-common-word/)
 2. [Leetcode : 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
