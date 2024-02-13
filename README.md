@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.13
+1. Leetcode : 1854. Maximum Population Year
+2. Leetcode : 978. Longest Turbulent Subarray
+3. Leetcode : 2025. Maximum Number of Ways to Partition an Array
+
 # 2.5
 1. [Leetcode : 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 2. [Leetcode : 1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/)
