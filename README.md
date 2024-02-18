@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 2.19
-1. Leetcode : 728. Self Dividing Numbers
-2. Leetcode : 1110. Delete Nodes And Return Forest
-3. Leetcode : 1889. Minimum Space Wasted From Packaging
+1. [Leetcode : 728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+2. [Leetcode : 1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+3. [Leetcode : 1889. Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)
 
 # 2.13
 1. [Leetcode : 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
