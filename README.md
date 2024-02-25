@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 2.26
-1. Leetcode : 1886. Determine Whether Matrix Can Be Obtained By Rotation
-2. Leetcode : 978. Longest Turbulent Subarray
-3. Leetcode : 1095. Find in Mountain Array
+1. [Leetcode : 1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+2. [Leetcode : 978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
+3. [Leetcode : 1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 
 # 2.19
 1. [Leetcode : 728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
