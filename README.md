@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.26
+1. Leetcode : 1886. Determine Whether Matrix Can Be Obtained By Rotation
+2. Leetcode : 978. Longest Turbulent Subarray
+3. Leetcode : 1095. Find in Mountain Array
+
 # 2.19
 1. [Leetcode : 728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 2. [Leetcode : 1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
