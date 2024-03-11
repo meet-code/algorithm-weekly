@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.11
+1. Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores
+2. Leetcode : 304. Range Sum Query 2D - Immutable
+3. Leetcode : 1601. Maximum Number of Achievable Transfer Requests
+
 # 3.4
 1. [Leetcode : 1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 2. [Leetcode : 436. Find Right Interval](https://leetcode.com/problems/find-right-interval/)
