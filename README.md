@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.18
+1. Leetcode : 1667. Fix Names in a Table
+2. Leetcode : 2201. Count Artifacts That Can Be Extracted
+3. Leetcode : 273. Integer to English Words
+
 # 3.11
 1. [Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 2. [Leetcode : 304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
