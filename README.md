@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.18
-1. Leetcode : 1667. Fix Names in a Table
-2. Leetcode : 2201. Count Artifacts That Can Be Extracted
-3. Leetcode : 273. Integer to English Words
+1. [Leetcode : 1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)
+2. [Leetcode : 2201. Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)
+3. [Leetcode : 273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 
 # 3.11
 1. [Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
