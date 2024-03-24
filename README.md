@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.25
-1. Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores
-2. Leetcode : 1019. Next Greater Node In Linked List
-3. Leetcode : 1643. Kth Smallest Instructions
+1. [Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
+2. [Leetcode : 1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
+3. [Leetcode : 1643. Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/)
 
 # 3.18
 1. [Leetcode : 1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)
