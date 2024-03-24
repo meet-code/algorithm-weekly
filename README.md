@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.25
+1. Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores
+2. Leetcode : 1019. Next Greater Node In Linked List
+3. Leetcode : 1643. Kth Smallest Instructions
+
 # 3.18
 1. [Leetcode : 1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)
 2. [Leetcode : 2201. Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)
