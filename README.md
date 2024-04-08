@@ -1,6 +1,16 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.8
+1. Leetcode : 1114. Print in Order
+2. Leetcode : 1626. Best Team With No Conflicts
+3. Leetcode : 1001. Grid Illumination
+
+# 4.1
+1. Leetcode : 1260. Shift 2D Grid
+2. Leetcode : 2130. Maximum Twin Sum of a Linked List
+3. Leetcode : 1001. Grid Illumination
+
 # 3.25
 1. [Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 2. [Leetcode : 1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
