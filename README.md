@@ -2,14 +2,14 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.8
-1. Leetcode : 1114. Print in Order
-2. Leetcode : 1626. Best Team With No Conflicts
-3. Leetcode : 1001. Grid Illumination
+1. [Leetcode : 1114. Print in Order](https://leetcode.com/problems/print-in-order/)
+2. [Leetcode : 1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
+3. [Leetcode : 1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/)
 
 # 4.1
-1. Leetcode : 1260. Shift 2D Grid
-2. Leetcode : 2130. Maximum Twin Sum of a Linked List
-3. Leetcode : 1001. Grid Illumination
+1. [Leetcode : 1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
+2. [Leetcode : 2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+3. [Leetcode : 1001. Grid Illumination](https://leetcode.com/problems/grid-illumination/)
 
 # 3.25
 1. [Leetcode : 1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
