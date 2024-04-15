@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.15
-1. Leetcode : 118. Pascal's Triangle
-2. Leetcode : 2125. Number of Laser Beams in a Bank
-3. Leetcode : 827. Making A Large Island
+1. [Leetcode : 118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+2. [Leetcode : 2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
+3. [Leetcode : 827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
 
 # 4.8
 1. [Leetcode : 1114. Print in Order](https://leetcode.com/problems/print-in-order/)
