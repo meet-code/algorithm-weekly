@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.22
+1. Leetcode : 414. Third Maximum Number
+2. Leetcode : 1963. Minimum Number of Swaps to Make the String Balanced
+3. Leetcode : 1383. Maximum Performance of a Team
+
 # 4.15
 1. [Leetcode : 118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 2. [Leetcode : 2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)
