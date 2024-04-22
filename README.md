@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.22
-1. Leetcode : 414. Third Maximum Number
-2. Leetcode : 1963. Minimum Number of Swaps to Make the String Balanced
-3. Leetcode : 1383. Maximum Performance of a Team
+1. [Leetcode : 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+2. [Leetcode : 1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
+3. [Leetcode : 1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
 
 # 4.15
 1. [Leetcode : 118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
