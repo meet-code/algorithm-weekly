@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.29
-1. Leetcode : 414. Third Maximum Number
-2. Leetcode : 621. Task Scheduler
-3. Leetcode : 1483. Kth Ancestor of a Tree Node
+1. [Leetcode : 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+2. [Leetcode : 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+3. [Leetcode : 1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
 
 # 4.22
 1. [Leetcode : 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
