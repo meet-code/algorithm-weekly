@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 5.6
+1. Leetcode : 1332. Remove Palindromic Subsequences
+2. Leetcode : 1864. Minimum Number of Swaps to Make the Binary String Alternating
+3. Leetcode : 1235. Maximum Profit in Job Scheduling
+
 # 4.29
 1. [Leetcode : 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 2. [Leetcode : 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
