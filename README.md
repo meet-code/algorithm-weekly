@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 5.12
+1. Leetcode : 1103. Distribute Candies to People
+2. Leetcode : 207. Course Schedule
+3. Leetcode : 493. Reverse Pairs
+
 # 5.6
 1. [Leetcode : 1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
 2. [Leetcode : 1864. Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/)
