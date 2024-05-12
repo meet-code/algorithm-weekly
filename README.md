@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.12
-1. Leetcode : 1103. Distribute Candies to People
-2. Leetcode : 207. Course Schedule
-3. Leetcode : 493. Reverse Pairs
+1. [Leetcode : 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
+2. [Leetcode : 207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+3. [Leetcode : 493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 # 5.6
 1. [Leetcode : 1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
