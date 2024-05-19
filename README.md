@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.20
-1. Leetcode : 1332. Remove Palindromic Subsequences
-2. Leetcode : 95. Unique Binary Search Trees II
-3. Leetcode : 1425. Constrained Subsequence Sum
+1. [Leetcode : 1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
+2. [Leetcode : 95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+3. [Leetcode : 1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
 
 # 5.12
 1. [Leetcode : 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
