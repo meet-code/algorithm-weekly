@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 5.20
+1. Leetcode : 1332. Remove Palindromic Subsequences
+2. Leetcode : 95. Unique Binary Search Trees II
+3. Leetcode : 1425. Constrained Subsequence Sum
+
 # 5.12
 1. [Leetcode : 1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 2. [Leetcode : 207. Course Schedule](https://leetcode.com/problems/course-schedule/)
