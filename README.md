@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.10
+1. Leetcode : 258. Add Digits
+2. Leetcode : 2017. Grid Game
+3. Leetcode : 488. Zuma Game
+
 # 6.3
 1. [Leetcode : 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 2. [Leetcode : 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
