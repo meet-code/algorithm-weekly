@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.10
-1. Leetcode : 258. Add Digits
-2. Leetcode : 2017. Grid Game
-3. Leetcode : 488. Zuma Game
+1. [Leetcode : 258. Add Digits](https://leetcode.com/problems/add-digits/)
+2. [Leetcode : 2017. Grid Game](https://leetcode.com/problems/grid-game/)
+3. [Leetcode : 488. Zuma Game](https://leetcode.com/problems/zuma-game/)
 
 # 6.3
 1. [Leetcode : 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
