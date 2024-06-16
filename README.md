@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.17
-1. Leetcode : 459. Repeated Substring Pattern
-2. Leetcode : 2017. Grid Game
-3. Leetcode : 1330. Reverse Subarray To Maximize Array Value
+1. [Leetcode : 459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+2. [Leetcode : 2017. Grid Game](https://leetcode.com/problems/grid-game/)
+3. [Leetcode : 1330. Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/)
 
 # 6.10
 1. [Leetcode : 258. Add Digits](https://leetcode.com/problems/add-digits/)
