@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.24
+1. Leetcode : 543. Diameter of Binary Tree
+2. Leetcode : 1813. Sentence Similarity III
+3. Leetcode : 1377. Frog Position After T Seconds
+
 # 6.17
 1. [Leetcode : 459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 2. [Leetcode : 2017. Grid Game](https://leetcode.com/problems/grid-game/)
