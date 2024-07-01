@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.1
-1. Leetcode : 1342. Number of Steps to Reduce a Number to Zero
-2. Leetcode : 1487. Making File Names Unique
-3. Leetcode : 1345. Jump Game IV
+1. [Leetcode : 1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+2. [Leetcode : 1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)
+3. [Leetcode : 1345. Jump Game IV](https://leetcode.com/tag/breadth-first-search/)
 
 # 6.24
 1. [Leetcode : 543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
