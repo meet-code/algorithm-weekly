@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.8
+1. Leetcode : 584. Find Customer Referee
+2. Leetcode : 1997. First Day Where You Have Been in All the Rooms
+3. Leetcode : 460. LFU Cache
+
 # 7.1
 1. [Leetcode : 1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 2. [Leetcode : 1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)
