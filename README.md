@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.16
+1. Leetcode : 584. Find Customer Referee
+2. Leetcode : 1319. Number of Operations to Make Network Connected
+3. Leetcode : 321. Create Maximum Number
+
 # 7.8
 1. [Leetcode : 584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 2. [Leetcode : 1997. First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)
