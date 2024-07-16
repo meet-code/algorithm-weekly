@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.16
-1. Leetcode : 584. Find Customer Referee
-2. Leetcode : 1319. Number of Operations to Make Network Connected
-3. Leetcode : 321. Create Maximum Number
+1. [Leetcode : 584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
+2. [Leetcode : 1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+3. [Leetcode : 321. Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
 
 # 7.8
 1. [Leetcode : 584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
