@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.22
-1. Leetcode : 922. Sort Array By Parity II
-2. Leetcode : 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period
-3. Leetcode : 1392. Longest Happy Prefix
+1. [Leetcode : 922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+2. [Leetcode : 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)
+3. [Leetcode : 1392. Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 
 # 7.16
 1. [Leetcode : 584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
