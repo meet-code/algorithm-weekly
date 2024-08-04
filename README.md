@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.5
+1. Leetcode : 101. Symmetric Tree
+2. Leetcode : 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period
+3. Leetcode : 1434. Number of Ways to Wear Different Hats to Each Other
+
 # 7.22
 1. [Leetcode : 922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 2. [Leetcode : 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)
