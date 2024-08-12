@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 8.12
-1. Leetcode : 492. Construct the Rectangle
-2. Leetcode : 61. Rotate List
-3. Leetcode : 1223. Dice Roll Simulation
+1. [Leetcode : 492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
+2. [Leetcode : 61. Rotate List](https://leetcode.com/problems/rotate-list/)
+3. [Leetcode : 1223. Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)
 
 # 8.5
 1. [Leetcode : 101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
