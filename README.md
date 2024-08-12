@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.12
+1. Leetcode : 492. Construct the Rectangle
+2. Leetcode : 61. Rotate List
+3. Leetcode : 1223. Dice Roll Simulation
+
 # 8.5
 1. [Leetcode : 101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 2. [Leetcode : 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)
