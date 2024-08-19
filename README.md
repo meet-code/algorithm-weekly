@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.19
+1. Leetcode : 1556. Thousand Separator
+2. Leetcode : 2285. Maximum Total Importance of Roads
+3. Leetcode : 1610. Maximum Number of Visible Points
+
 # 8.12
 1. [Leetcode : 492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
 2. [Leetcode : 61. Rotate List](https://leetcode.com/problems/rotate-list/)
