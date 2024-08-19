@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 8.19
-1. Leetcode : 1556. Thousand Separator
-2. Leetcode : 2285. Maximum Total Importance of Roads
-3. Leetcode : 1610. Maximum Number of Visible Points
+1. [Leetcode : 1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)
+2. [Leetcode : 2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)
+3. [Leetcode : 1610. Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)
 
 # 8.12
 1. [Leetcode : 492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
