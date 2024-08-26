@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.25
+1. Leetcode : 1629. Slowest Key
+2. Leetcode : 817. Linked List Components
+3. Leetcode : 995. Minimum Number of K Consecutive Bit Flips
+
 # 8.19
 1. [Leetcode : 1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)
 2. [Leetcode : 2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)
