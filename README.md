@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 8.25
-1. Leetcode : 1629. Slowest Key
-2. Leetcode : 817. Linked List Components
-3. Leetcode : 995. Minimum Number of K Consecutive Bit Flips
+1. [Leetcode : 1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
+2. [Leetcode : 817. Linked List Components](https://leetcode.com/problems/linked-list-components/)
+3. [Leetcode : 995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
 
 # 8.19
 1. [Leetcode : 1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)
