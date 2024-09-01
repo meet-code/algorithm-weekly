@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 9.2
-1. Leetcode : 1470. Shuffle the Array
-2. Leetcode : 817. Linked List Components
-3. Leetcode : 2163. Minimum Difference in Sums After Removal of Elements
+1. [Leetcode : 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+2. [Leetcode : 817. Linked List Components](https://leetcode.com/problems/linked-list-components/)
+3. [Leetcode : 2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/)
 
 # 8.25
 1. [Leetcode : 1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
