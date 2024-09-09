@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 9.9
-1. Leetcode : 1351. Count Negative Numbers in a Sorted Matrix
-2. Leetcode : 143. Reorder List
-3. Leetcode : 2092. Find All People With Secret
+1. [Leetcode : 1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+2. [Leetcode : 143. Reorder List](https://leetcode.com/problems/reorder-list/)
+3. [Leetcode : 2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
 
 # 9.2
 1. [Leetcode : 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
