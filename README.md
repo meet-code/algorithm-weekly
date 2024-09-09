@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.9
+1. Leetcode : 1351. Count Negative Numbers in a Sorted Matrix
+2. Leetcode : 143. Reorder List
+3. Leetcode : 2092. Find All People With Secret
+
 # 9.2
 1. [Leetcode : 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 2. [Leetcode : 817. Linked List Components](https://leetcode.com/problems/linked-list-components/)
