@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 9.16
-1. Leetcode : 944. Delete Columns to Make Sorted
-2. Leetcode : 2233. Maximum Product After K Increments
-3. Leetcode : 960. Delete Columns to Make Sorted III
+1. [Leetcode : 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+2. [Leetcode : 2233. Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/)
+3. [Leetcode : 960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)
 
 # 9.9
 1. [Leetcode : 1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
