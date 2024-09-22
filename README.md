@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.23
+1. Leetcode : 1496. Path Crossing
+2. Leetcode : 2279. Maximum Bags With Full Capacity of Rocks
+3. Leetcode : 778. Swim in Rising Water
+
 # 9.16
 1. [Leetcode : 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 2. [Leetcode : 2233. Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/)
