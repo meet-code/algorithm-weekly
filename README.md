@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.8
+1. Leetcode : 463. Island Perimeter
+2. Leetcode : 2279. Maximum Bags With Full Capacity of Rocks
+3. Leetcode : 924. Minimize Malware Spread
+
 # 9.30
 1. [Leetcode : 1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 2. [Leetcode : 79. Word Search](https://leetcode.com/problems/word-search/)
