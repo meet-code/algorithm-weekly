@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.14
+1. Leetcode : 680. Valid Palindrome II
+2. Leetcode : 1140. Stone Game II
+3. Leetcode : 127. Word Ladder
+
 # 10.8
 1. [Leetcode : 463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 2. [Leetcode : 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
