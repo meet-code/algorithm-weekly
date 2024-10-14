@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 10.14
-1. Leetcode : 680. Valid Palindrome II
-2. Leetcode : 1140. Stone Game II
-3. Leetcode : 127. Word Ladder
+1. [Leetcode : 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+2. [Leetcode : 1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+3. [Leetcode : 127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 # 10.8
 1. [Leetcode : 463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
