@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.21
+1. Leetcode : 504. Base 7
+2. Leetcode : 1785. Minimum Elements to Add to Form a Given Sum
+3. Leetcode : 2030. Smallest K-Length Subsequence With Occurrences of a Letter
+
 # 10.14
 1. [Leetcode : 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 2. [Leetcode : 1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
