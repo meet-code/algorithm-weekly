@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.28
+1. Leetcode : 374. Guess Number Higher or Lower
+2. Leetcode : 1785. Minimum Elements to Add to Form a Given Sum
+3. Leetcode : 1463. Cherry Pickup II
+
 # 10.21
 1. [Leetcode : 504. Base 7](https://leetcode.com/problems/base-7/)
 2. [Leetcode : 1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)
