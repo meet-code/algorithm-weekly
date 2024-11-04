@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 11.4
-1. Leetcode : 872. Leaf-Similar Trees
-2. Leetcode : 1052. Grumpy Bookstore Owner
-3. Leetcode : 483. Smallest Good Base
+1. [Leetcode : 872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+2. [Leetcode : 1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
+3. [Leetcode : 483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)
 
 # 10.28
 1. [Leetcode : 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
