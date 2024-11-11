@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.11
+1. Leetcode : 2138. Divide a String Into Groups of Size k
+2. Leetcode : 475. Heaters
+3. Leetcode : 1568. Minimum Number of Days to Disconnect Island
+
 # 11.4
 1. [Leetcode : 872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 2. [Leetcode : 1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
