@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.2
-1. Leetcode : 965. Univalued Binary Tree
-2. Leetcode : 638. Shopping Offers
-3. Leetcode : 2209. Minimum White Tiles After Covering With Carpets
+1. [Leetcode : 965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+2. [Leetcode : 638. Shopping Offers](https://leetcode.com/problems/shopping-offers/)
+3. [Leetcode : 2209. Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
 
 # 11.25
 1. [Leetcode : 617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
