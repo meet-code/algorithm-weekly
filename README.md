@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.2
+1. Leetcode : 965. Univalued Binary Tree
+2. Leetcode : 638. Shopping Offers
+3. Leetcode : 2209. Minimum White Tiles After Covering With Carpets
+
 # 11.25
 1. [Leetcode : 617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 2. [Leetcode : 910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)
