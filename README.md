@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.9
+1. Leetcode : 169. Majority Element
+2. Leetcode : 15. 3Sum
+3. Leetcode : 761. Special Binary String
+
 # 12.2
 1. [Leetcode : 965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
 2. [Leetcode : 638. Shopping Offers](https://leetcode.com/problems/shopping-offers/)
