@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.9
-1. Leetcode : 169. Majority Element
-2. Leetcode : 15. 3Sum
-3. Leetcode : 761. Special Binary String
+1. [Leetcode : 169. Majority Element](https://leetcode.com/problems/majority-element/)
+2. [Leetcode : 15. 3Sum](https://leetcode.com/problems/3sum/)
+3. [Leetcode : 761. Special Binary String](https://leetcode.com/problems/special-binary-string/)
 
 # 12.2
 1. [Leetcode : 965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
