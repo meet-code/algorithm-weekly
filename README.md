@@ -4,7 +4,7 @@
 # 12.16
 1. [Leetcode : 961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 2. [Leetcode : 1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
-3. [Leetcode : 761. Special Binary String](https://leetcode.com/problems/special-binary-string/)
+3. Leetcode : 2025. Maximum Number of Ways to Partition an Array
 
 # 12.9
 1. [Leetcode : 169. Majority Element](https://leetcode.com/problems/majority-element/)
