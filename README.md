@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.16
+1. Leetcode : 961. N-Repeated Element in Size 2N Array
+2. Leetcode : 1557. Minimum Number of Vertices to Reach All Nodes
+3. Leetcode : 761. Special Binary String
+
 # 12.9
 1. [Leetcode : 169. Majority Element](https://leetcode.com/problems/majority-element/)
 2. [Leetcode : 15. 3Sum](https://leetcode.com/problems/3sum/)
