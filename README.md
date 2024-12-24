@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.24
-1. Leetcode : 1720. Decode XORed Array
-2. Leetcode : 811. Subdomain Visit Count
-3. Leetcode : 32. Longest Valid Parentheses
+1. [Leetcode : 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+2. [Leetcode : 811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+3. [Leetcode : 32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
 # 12.16
 1. [Leetcode : 961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
