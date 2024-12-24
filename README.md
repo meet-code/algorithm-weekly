@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.24
+1. Leetcode : 1720. Decode XORed Array
+2. Leetcode : 811. Subdomain Visit Count
+3. Leetcode : 32. Longest Valid Parentheses
+
 # 12.16
 1. [Leetcode : 961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 2. [Leetcode : 1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
