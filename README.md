@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 12.30
-1. Leetcode : 1640. Check Array Formation Through Concatenation
-2. Leetcode : 795. Number of Subarrays with Bounded Maximum
-3. Leetcode : 1879. Minimum XOR Sum of Two Arrays
+1. [Leetcode : 1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
+2. [Leetcode : 795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+3. [Leetcode : 1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)
 
 # 12.24
 1. [Leetcode : 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
