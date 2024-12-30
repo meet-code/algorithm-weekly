@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.30
+1. Leetcode : 1640. Check Array Formation Through Concatenation
+2. Leetcode : 795. Number of Subarrays with Bounded Maximum
+3. Leetcode : 1879. Minimum XOR Sum of Two Arrays
+
 # 12.24
 1. [Leetcode : 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 2. [Leetcode : 811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
