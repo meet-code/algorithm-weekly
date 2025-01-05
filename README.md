@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.6
+1. Leetcode : 1741. Find Total Time Spent by Each Employee
+2. Leetcode : 1881. Maximum Value after Insertion
+3. Leetcode : 2262. Total Appeal of A String
+
 # 12.30
 1. [Leetcode : 1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
 2. [Leetcode : 795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
