@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.6
-1. Leetcode : 1741. Find Total Time Spent by Each Employee
-2. Leetcode : 1881. Maximum Value after Insertion
-3. Leetcode : 2262. Total Appeal of A String
+1. [Leetcode : 1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
+2. [Leetcode : 1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/)
+3. [Leetcode : 2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)
 
 # 12.30
 1. [Leetcode : 1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
