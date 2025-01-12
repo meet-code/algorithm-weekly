@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 1.13
+1. Leetcode : 94. Binary Tree Inorder Traversal
+2. Leetcode : 1080. Insufficient Nodes in Root to Leaf Paths
+3. Leetcode : 996. Number of Squareful Arrays
+
 # 1.6
 1. [Leetcode : 1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
 2. [Leetcode : 1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/)
