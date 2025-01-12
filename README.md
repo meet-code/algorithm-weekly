@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.13
-1. Leetcode : 94. Binary Tree Inorder Traversal
-2. Leetcode : 1080. Insufficient Nodes in Root to Leaf Paths
-3. Leetcode : 996. Number of Squareful Arrays
+1. [Leetcode : 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+2. [Leetcode : 1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
+3. [Leetcode : 996. Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
 
 # 1.6
 1. [Leetcode : 1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
