@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 1.20
-1. Leetcode : 680. Valid Palindrome II
-2. Leetcode : 1958. Check if Move is Legal
-3. Leetcode : 1912. Design Movie Rental System
+1. [Leetcode : 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+2. [Leetcode : 1958. Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/)
+3. [Leetcode : 1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/)
 
 # 1.13
 1. [Leetcode : 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
