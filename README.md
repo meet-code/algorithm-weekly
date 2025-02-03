@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 2.3
-1. Leetcode : 1736. Latest Time by Replacing Hidden Digits
-2. Leetcode : 1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
-3. Leetcode : 2076. Process Restricted Friend Requests
+1. [Leetcode : 1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
+2. [Leetcode : 1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)
+3. [Leetcode : 2076. Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
 
 # 1.20
 1. [Leetcode : 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
