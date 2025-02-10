@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.10
+1. Leetcode : 1009. Complement of Base 10 Integer
+2. Leetcode : 865. Smallest Subtree with all the Deepest Nodes
+3. Leetcode : 2025. Maximum Number of Ways to Partition an Array
+
 # 2.3
 1. [Leetcode : 1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
 2. [Leetcode : 1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)
