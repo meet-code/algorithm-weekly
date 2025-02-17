@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 2.17
+1. Leetcode : 2047. Number of Valid Words in a Sentence
+2. Leetcode : 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
+3. Leetcode : 2019. The Score of Students Solving Math Expression
+
 # 2.10
 1. [Leetcode : 1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 2. [Leetcode : 865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
