@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.3
-1. Leetcode : 2259. Remove Digit From Number to Maximize Result
-2. Leetcode : 1110. Delete Nodes And Return Forest
-3. Leetcode : 480. Sliding Window Median
+1. [Leetcode : 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
+2. [Leetcode : 1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+3. [Leetcode : 480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 # 2.17
 1. [Leetcode : 2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
