@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.27
+1. Leetcode : 637. Average of Levels in Binary Tree
+2. Leetcode : 779. K-th Symbol in Grammar
+3. Leetcode : 1643. Kth Smallest Instructions
+
 # 3.3
 1. [Leetcode : 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
 2. [Leetcode : 1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
