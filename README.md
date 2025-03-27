@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.27
-1. Leetcode : 637. Average of Levels in Binary Tree
-2. Leetcode : 779. K-th Symbol in Grammar
-3. Leetcode : 1643. Kth Smallest Instructions
+1. [Leetcode : 637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+2. [Leetcode : 779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+3. [Leetcode : 1643. Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/)
 
 # 3.3
 1. [Leetcode : 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
