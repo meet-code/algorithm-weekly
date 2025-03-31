@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 3.31
-1. Leetcode : 1309. Decrypt String from Alphabet to Integer Mapping
-2. Leetcode : 63. Unique Paths II
-3. Leetcode : 1293. Shortest Path in a Grid with Obstacles Elimination
+1. [Leetcode : 1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
+2. [Leetcode : 63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+3. [Leetcode : 1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 
 # 3.27
 1. [Leetcode : 637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
