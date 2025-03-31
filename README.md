@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 3.31
+1. Leetcode : 1309. Decrypt String from Alphabet to Integer Mapping
+2. Leetcode : 63. Unique Paths II
+3. Leetcode : 1293. Shortest Path in a Grid with Obstacles Elimination
+
 # 3.27
 1. [Leetcode : 637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 2. [Leetcode : 779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
