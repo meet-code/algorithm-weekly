@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.21
+1. Leetcode : 108. Convert Sorted Array to Binary Search Tree
+2. Leetcode : 1310. XOR Queries of a Subarray
+3. Leetcode : 972. Equal Rational Numbers
+
 # 4.7
 1. [Leetcode : 67. Add Binary](https://leetcode.com/problems/add-binary/)
 2. [Leetcode : 1685. Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
