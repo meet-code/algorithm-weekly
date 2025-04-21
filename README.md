@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.21
-1. Leetcode : 108. Convert Sorted Array to Binary Search Tree
-2. Leetcode : 1310. XOR Queries of a Subarray
-3. Leetcode : 972. Equal Rational Numbers
+1. [Leetcode : 108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+2. [Leetcode : 1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
+3. [Leetcode : 972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)
 
 # 4.7
 1. [Leetcode : 67. Add Binary](https://leetcode.com/problems/add-binary/)
