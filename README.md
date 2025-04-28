@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 4.28
+1. Leetcode : 1779. Find Nearest Point That Has the Same X or Y Coordinate
+2. Leetcode : 1733. Minimum Number of People to Teach
+3. Leetcode : 972. Equal Rational Numbers
+
 # 4.21
 1. [Leetcode : 108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 2. [Leetcode : 1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
