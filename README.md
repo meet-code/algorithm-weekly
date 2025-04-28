@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 4.28
-1. Leetcode : 1779. Find Nearest Point That Has the Same X or Y Coordinate
-2. Leetcode : 1733. Minimum Number of People to Teach
-3. Leetcode : 972. Equal Rational Numbers
+1. [Leetcode : 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
+2. [Leetcode : 1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)
+3. [Leetcode : 972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)
 
 # 4.21
 1. [Leetcode : 108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
