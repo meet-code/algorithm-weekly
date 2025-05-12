@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.12
-1. Leetcode : 2062. Count Vowel Substrings of a String
-2. Leetcode : 2055. Plates Between Candles
-3. Leetcode : 493. Reverse Pairs
+1. [Leetcode : 2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)
+2. [Leetcode : 2055. Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)
+3. [Leetcode : 493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
 
 # 4.28
 1. [Leetcode : 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
