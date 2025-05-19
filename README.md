@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 5.19
+1. Leetcode : 1795. Rearrange Products Table
+2. Leetcode : 450. Delete Node in a BST
+3. Leetcode : 1425. Constrained Subsequence Sum
+
 # 5.12
 1. [Leetcode : 2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)
 2. [Leetcode : 2055. Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)
