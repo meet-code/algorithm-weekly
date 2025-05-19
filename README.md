@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 5.19
-1. Leetcode : 1795. Rearrange Products Table
-2. Leetcode : 450. Delete Node in a BST
-3. Leetcode : 1425. Constrained Subsequence Sum
+1. [Leetcode : 1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
+2. [Leetcode : 450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+3. [Leetcode : 1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
 
 # 5.12
 1. [Leetcode : 2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)
