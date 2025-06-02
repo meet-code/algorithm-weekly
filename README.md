@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.2
+1. Leetcode : 459. Repeated Substring Pattern
+2. Leetcode : 739. Daily Temperatures
+3. Leetcode : 591. Tag Validator
+
 # 5.26
 1. [Leetcode : 1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 2. [Leetcode : 622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
