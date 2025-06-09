@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.9
+1. Leetcode : 697. Degree of an Array
+2. Leetcode : 889. Construct Binary Tree from Preorder and Postorder Traversal
+3. Leetcode : 1840. Maximum Building Height
+
 # 6.2
 1. [Leetcode : 459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 2. [Leetcode : 739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
