@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 6.9
-1. Leetcode : 697. Degree of an Array
-2. Leetcode : 889. Construct Binary Tree from Preorder and Postorder Traversal
-3. Leetcode : 1840. Maximum Building Height
+1. [Leetcode : 697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+2. [Leetcode : 889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+3. [Leetcode : 1840. Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
 
 # 6.2
 1. [Leetcode : 459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
