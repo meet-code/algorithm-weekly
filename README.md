@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 6.16
+1. Leetcode : 389. Find the Difference
+2. Leetcode : 1702. Maximum Binary String After Change
+3. Leetcode : 1840. Maximum Building Height
+
 # 6.9
 1. [Leetcode : 697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
 2. [Leetcode : 889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
