@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.7
+1. Leetcode : 35. Search Insert Position
+2. Leetcode : 880. Decoded String at Index
+3. Leetcode : 601. Human Traffic of Stadium
+
 # 6.16
 1. [Leetcode : 389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 2. [Leetcode : 1702. Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/)
