@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.21
+1. Leetcode : 1464. Maximum Product of Two Elements in an Array
+2. Leetcode : 1997. First Day Where You Have Been in All the Rooms
+3. Leetcode : 1755. Closest Subsequence Sum
+
 # 7.7
 1. [Leetcode : 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 2. [Leetcode : 880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
