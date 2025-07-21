@@ -2,9 +2,9 @@
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
 # 7.21
-1. Leetcode : 1464. Maximum Product of Two Elements in an Array
-2. Leetcode : 1997. First Day Where You Have Been in All the Rooms
-3. Leetcode : 1755. Closest Subsequence Sum
+1. [Leetcode : 1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+2. [Leetcode : 1997. First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)
+3. [Leetcode : 1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/)
 
 # 7.7
 1. [Leetcode : 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
