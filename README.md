@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 7.28
+1. Leetcode : 1422. Maximum Score After Splitting a String
+2. Leetcode : 61. Rotate List
+3. Leetcode : 65. Valid Number
+
 # 7.21
 1. [Leetcode : 1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 2. [Leetcode : 1997. First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)
