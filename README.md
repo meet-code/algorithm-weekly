@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 8.25
+1. Leetcode : 1629. Slowest Key
+2. Leetcode : 918. Maximum Sum Circular Subarray
+3. Leetcode : 995. Minimum Number of K Consecutive Bit Flips
+
 # 7.28
 1. [Leetcode : 1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 2. [Leetcode : 61. Rotate List](https://leetcode.com/problems/rotate-list/)
