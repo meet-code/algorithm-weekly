@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.1
+1. Leetcode : 231. Power of Two
+2. Leetcode : 1846. Maximum Element After Decreasing and Rearranging
+3. Leetcode : 960. Delete Columns to Make Sorted III
+
 # 8.25
 1. [Leetcode : 1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
 2. [Leetcode : 918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
