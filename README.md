@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 9.29
+1. Leetcode : 1848. Minimum Distance to the Target Element
+2. Leetcode : 713. Subarray Product Less Than K
+3. Leetcode : 1723. Find Minimum Time to Finish All Jobs
+
 # 9.22
 1. Leetcode : 463. Island Perimeter
 2. Leetcode : 19. Remove Nth Node From End of List
