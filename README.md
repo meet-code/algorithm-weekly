@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.13
+1. Leetcode : 1729. Find Followers Count
+2. Leetcode : 3. Longest Substring Without Repeating Characters
+3. Leetcode : 127. Word Ladder
+
 # 9.29
 1. Leetcode : 1848. Minimum Distance to the Target Element
 2. Leetcode : 713. Subarray Product Less Than K
