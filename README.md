@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.20
+1. Leetcode : 596. Classes More Than 5 Students
+2. Leetcode : 475. Heaters
+3. Leetcode : 517. Super Washing Machines
+
 # 10.13
 1. Leetcode : 1729. Find Followers Count
 2. Leetcode : 3. Longest Substring Without Repeating Characters
