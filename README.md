@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 10.27
+1. Leetcode : 504. Base 7
+2. Leetcode : 1003. Check If Word Is Valid After Substitutions
+3. Leetcode : 2030. Smallest K-Length Subsequence With Occurrences of a Letter
+
 # 10.20
 1. Leetcode : 596. Classes More Than 5 Students
 2. Leetcode : 475. Heaters
