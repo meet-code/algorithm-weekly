@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.3
+1. Leetcode : 504. Base 7
+2. Leetcode : 2101. Detonate the Maximum Bombs
+3. Leetcode : 1172. Dinner Plate Stacks
+
 # 10.27
 1. Leetcode : 504. Base 7
 2. Leetcode : 1003. Check If Word Is Valid After Substitutions
