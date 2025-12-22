@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 11.18
+1. Leetcode : 897. Increasing Order Search Tree
+2. Leetcode : 1593. Split a String Into the Max Number of Unique Substrings
+3. Leetcode : 805. Split Array With Same Average
+
 # 11.11
 1. Leetcode : 2180. Count Integers With Even Digit Sum
 2. Leetcode : 910. Smallest Range II
