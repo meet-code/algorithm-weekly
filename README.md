@@ -1,6 +1,11 @@
 # 알고리즘 문제 리스트
 [카카오 오픈채팅 알고리즘 공부방](https://open.kakao.com/o/gy9t00ib)
 
+# 12.22
+1. Leetcode : 66. Plus One
+2. Leetcode : 456. 132 Pattern
+3. Leetcode : 2035. Partition Array Into Two Arrays to Minimize Sum Difference
+
 # 11.18
 1. Leetcode : 897. Increasing Order Search Tree
 2. Leetcode : 1593. Split a String Into the Max Number of Unique Substrings
